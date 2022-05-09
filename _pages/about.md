@@ -11,7 +11,7 @@ redirect_from:
 
 <img src="/images/500x300.png" height="200" width="200" />
 
-   <div class="wrap">
-        <img src="/images/500x300.png" alt="">
-        <span>Lorem ipsum dolor sit amet consectetur adipisicing.<br>Lorem ipsum dolor sit amet consectetur adipisicing.</span>
-    </div>
+  <div class="wrap">
+      <img src="/images/bio.png" height="540" width="360">
+      <span>Lorem ipsum dolor sit amet consectetur adipisicing.<br>Lorem ipsum dolor sit amet consectetur adipisicing.</span>
+  </div>
