@@ -5,7 +5,7 @@ excerpt: "About me"
 author_profile: false
 sidebar:
   - title: "Title"
-    image: "350x250.png"
+    image: "images/350x250.png"
     image_alt: "image"
     text: "Some text here."
   - title: "Another Title"
