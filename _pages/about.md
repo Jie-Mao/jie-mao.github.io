@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "毛杰的个人主页"
 excerpt: "About me"
 author_profile: false
 sidebar:
@@ -14,5 +14,4 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-<img src='/images/500x300.png'>
+<img src="/images/500x300.png" height="200" width="200" />
