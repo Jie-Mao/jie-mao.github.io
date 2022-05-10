@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "科研"
     url: /publications/
 
   - title: "Talks"
@@ -17,6 +17,4 @@ main:
     
   - title: "CV"
     url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+
