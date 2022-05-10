@@ -16,7 +16,7 @@ redirect_from:
 </tr>
 <table>
 
-<table id="tbl" border=0 width="80%" frame=void >
+<table id="tbl" border=0 width="80%" frame=below >
 <tr>
 <td> col1 </td> <td> col2 </td>
 </tr>
