@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "毛杰的个人主页"
+title: ""
 excerpt: "About me"
 author_profile: false
 redirect_from: 
