@@ -1,13 +1,9 @@
 ---
 layout: archive
 title: ""
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
+permalink: /english/
+author_profile: false
 ---
-
-{% include base_path %}
 
 <table width= "100%" frame=void>
 <tr>
