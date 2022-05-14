@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Portfolio"
+title: ""
 permalink: /portfolio/
 author_profile: false
 ---
@@ -13,7 +13,7 @@ author_profile: false
 
     <br>上海市“超级博士后”人才资助（2019-2021）
     
-    <br>**科研获奖**
+    <br><strong>科研获奖</strong>
     
     <br>2021年中国国际金融学会青年论坛优秀论文特等奖
     
@@ -23,7 +23,7 @@ author_profile: false
     
     <br>2019年中国平安全国励志计划学术论文奖
     ​
-    <br>**其他荣誉**
+    <br><strong>其他荣誉</strong>
     
     <br>2019年上海市优秀毕业生（博士生）
     
