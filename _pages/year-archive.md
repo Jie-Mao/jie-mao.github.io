@@ -6,7 +6,8 @@ author_profile: false
 ---
 
 ### 自2022学年起拟招收硕士研究生，有以下背景优先考虑：
-<br><strong>（1）数学物理反问题方向、力学摄动方向</strong>
+
+<strong>（1）数学物理反问题方向、力学摄动方向</strong>
 <br><strong>（2）随机控制方向</strong>
 <br><strong>（3）随机博弈方向、微分对策方向</strong>
 <br><strong>（4）ODE、PDE、SDE数值解方向</strong>
