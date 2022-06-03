@@ -5,10 +5,10 @@ permalink: /students/
 author_profile: false
 ---
 
-2022届本科生:
-张昕怡
-李怡琦
-徐诺
-乔思静
-佟同
-瞿熙
+<strong>2022届本科生:</strong>
+<br>张昕怡
+<br>李怡琦
+<br>徐诺
+<br>乔思静
+<br>佟同
+<br>瞿熙
