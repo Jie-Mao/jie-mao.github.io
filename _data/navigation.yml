@@ -8,7 +8,10 @@ main:
     
   - title: "荣誉"
     url: /portfolio/
-        
+
+ - title: "学生"
+    url: /students/
+
   - title: "招生"
     url: /year-archive/
     
