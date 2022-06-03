@@ -11,7 +11,7 @@ author_profile: false
     
     <strong>人才计划</strong>
 
-    <br>上海市“超级博士后”人才资助（2019-2021）
+    <br>上海市“超级博士后”人才资助（2019-2021）<br>
     
     <br><strong>科研获奖</strong>
     
@@ -21,7 +21,7 @@ author_profile: false
     
     <br>2020年第十七届中国金融学年会优秀论文提名奖
     
-    <br>2019年中国平安全国励志计划学术论文奖
+    <br>2019年中国平安全国励志计划学术论文奖<br>
     ​
     <br><strong>其他荣誉</strong>
     
