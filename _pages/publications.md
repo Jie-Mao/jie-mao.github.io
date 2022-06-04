@@ -10,6 +10,7 @@ author_profile: false
 【4】P2P网络借贷平台爆发风险事件问题的研究——基于实物期权理论的视角（with刘红忠）<br>
 《金融研究》2018年第11期<br>
 [下载链接](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2019&filename=JRYJ201811008&v=2zD1wu6NZ4fz6e0THfiwtEXeeSR4iImGXsPYUWxkL3CjG09c4mDQE1TOXSBTOck%25mmd2F)<br>
+[网络附录](https://jie-mao.github.io/files/app3.pdf)<br>
 注：这是2016年第13届中国金融学年会入选论文，更早是博士阶段《公司金融学》的课程论文。<br>
 
 【3】东道国大选对吸引国际直接投资的影响——基于政治经济周期视角（with夏小宝、田素华）<br>
@@ -21,6 +22,7 @@ author_profile: false
 【2】基于Copula-GARCH类模型的证券分类方法<br>
 《系统工程》2017年第4期<br>
 [下载链接](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2017&filename=GCXT201704007&v=SI33jjQ5RiUsDbqmpTXVFDIMcPXFclw1STcp1sN%25mmd2B49fLf5jruoz9xwoMaLVCr50O)<br>
+[网络附录](https://jie-mao.github.io/files/app2.pdf)<br>
 注：这是2014年第11届中国金融学年会入选论文，更早是硕士阶段《金融市场学》的课程论文。<br>
 
 【1】指数ETF期权上市对标的指数成份股市场质量的影响——来自上证50ETF期权上市的经验证据<br>
@@ -40,7 +42,7 @@ author_profile: false
 【3】融资融券交易对我国股市信息不对称风险的影响：理论建模与实证检验（with刘红忠、邓东升）<br>
 【4】股市信息不对称对股价暴跌的影响——基于不确定性的新视角（with刘红忠）<br>
 【5】经济不确定性对宏观经济系统性风险的影响与宏观审慎监管的效果——基于连续时间宏观经济金融学模型（with刘红忠、颜镜洲）<br>
-【6】经济不确定性、宏观经济系统性风险与货币政策和宏观审慎监管双支柱调控——基于连续时间金融方法（with颜镜洲、罗德庆）<br>
+【6】经济不确定性、宏观经济系统性风险与货币政策和宏观审慎监管双支柱调控——基于连续时间金融方法（with刘红忠、罗德庆、颜镜洲）<br>
 【7】奈特不确定性对宏观经济风险的影响——兼论资本账户开放下的国际宏观审慎监管的效果（with刘红忠、颜镜洲）<br>
 【8】连续时间宏观经济金融学的研究进展（with刘红忠）<br>
 【9】模糊波动下的策略交易和市场质量（with颜镜洲、李仲飞）<br>
