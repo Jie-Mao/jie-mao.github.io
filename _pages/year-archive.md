@@ -41,6 +41,8 @@ author_profile: false
 
 [国际期刊目录](https://jie-mao.github.io/files/file1.pdf)
 
+[国际期刊目录（ABS）](https://jie-mao.github.io/files/file4.pdf)
+
 [国内期刊目录](https://jie-mao.github.io/files/file2.pdf)
 
 [国内期刊黑名单目录](https://jie-mao.github.io/files/file3.pdf)
