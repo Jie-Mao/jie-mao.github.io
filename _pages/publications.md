@@ -14,7 +14,7 @@ author_profile: false
 注：这是2019年第16届中国金融学年会入选论文、第2届金融学者论坛入选论文，也是本人博士论文第六章的主要内容。<br>
 
 【4】P2P网络借贷平台爆发风险事件问题的研究——基于实物期权理论的视角（with刘红忠）<br>
-《金融研究》2018年第11期<br>
+《金融研究》2018年第11期（封面文章）<br>
 [下载链接](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2019&filename=JRYJ201811008&v=2zD1wu6NZ4fz6e0THfiwtEXeeSR4iImGXsPYUWxkL3CjG09c4mDQE1TOXSBTOck%25mmd2F)<br>
 [网络附录](https://jie-mao.github.io/files/app3.pdf)<br>
 注：这是2016年第13届中国金融学年会入选论文，更早是本人博士阶段《公司金融学》的课程论文。<br>
@@ -32,7 +32,7 @@ author_profile: false
 注：这是2014年第11届中国金融学年会入选论文，更早是本人硕士阶段《金融市场学》的课程论文。<br>
 
 【1】指数ETF期权上市对标的指数成份股市场质量的影响——来自上证50ETF期权上市的经验证据<br>
-《证券市场导报》2017年第3期（人大复印资料《投资与证券》2017年第7期全文转载）<br>
+《证券市场导报》2017年第3期（封面文章）（人大复印资料《投资与证券》2017年第7期全文转载）<br>
 [下载链接](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2017&filename=ZQDB201703011&v=13a9J8Ua5aK86ucr6Xh6DZ1rn3NueWM1TsDY9tK6KUQ6QM79qKW38O4TwnX5kVNh)<br>
 注：这是2015年第12届中国金融学年会入选论文。<br>
 
