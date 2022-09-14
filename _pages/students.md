@@ -5,7 +5,12 @@ permalink: /students/
 author_profile: false
 ---
 
-<strong>2018级本科生:</strong>
+
+<strong>2022级金融专硕生:</strong>
+<br><strong>万&nbsp;&nbsp;&nbsp;&nbsp;程</strong>：
+
+
+<strong>2018级（2022届）本科生:</strong>
 <br><strong>张昕怡</strong>：《人口老龄化对我国商业人身保险消费影响的实证研究》（成绩A）
 <br><strong>李怡琦</strong>：《普惠金融对收入不平等的影响》（成绩A）
 <br><strong>徐&nbsp;&nbsp;&nbsp;&nbsp;诺</strong>：《中国碳排放市场的有效性研究——基于面板方差比方法的分析》（成绩A-）
