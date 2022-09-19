@@ -11,7 +11,9 @@ author_profile: false
     
     <strong>人才计划</strong>
 
-    <br>上海市“超级博士后”人才资助（2019-2021）<br>
+    <br>上海市“超级博士后”人才资助（2019-2021）
+
+    <br>上海大学青年英才起航计划（2022–2025）<br>
     
     <br><strong>科研获奖</strong>
     
