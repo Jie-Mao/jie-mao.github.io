@@ -9,6 +9,9 @@ main:
   - title: "荣誉"
     url: /portfolio/
  
+  - title: "报告"
+    url: /conference/
+
   - title: "学生"
     url: /students/
             
