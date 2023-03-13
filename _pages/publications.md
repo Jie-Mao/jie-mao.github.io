@@ -8,9 +8,9 @@ author_profile: false
 ### 已刊论文
 
 【6】A Continuous Time Macro-Finance Model with Knightian Uncertainty（with申冠雄、颜镜洲）<br>
-《Pacific-Basin Finance Journal》已录用<br>
-下载链接<br>
-网络附录<br>
+《Pacific-Basin Finance Journal》2023年第1期（第77卷）<br>
+[下载链接](https://www.sciencedirect.com/science/article/pii/S0927538X22002244)<br>
+[网络附录](https://jie-mao.github.io/files/Appendix PBFJ.pdf)<br>
 注：这是2020年第17届中国金融学年会入选论文，也是本人博士后研究报告第四章的主要内容。<br>
 
 【5】股市信息不对称对股价暴跌的影响——基于不确定性的新视角（with刘红忠）<br>
