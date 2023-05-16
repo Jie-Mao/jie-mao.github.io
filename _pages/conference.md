@@ -4,7 +4,8 @@ title: ""
 permalink: /conference/
 author_profile: false
 ---
-
+ <br><strong>2023年</strong>
+ <br>《经济研究》第四届中国宏观经济学者论坛，湖南大学，湖南长沙
  <br><strong>2022年</strong>
  <br>第十九届中国金融学年会，上海交通大学，上海
  <br>《经济研究》第五届金融学者论坛，西南财经大学，四川成都
