@@ -11,8 +11,8 @@ author_profile: false
 <br><strong>黄舟佳</strong>（2023级）：
 <br><strong>陈&nbsp;&nbsp;&nbsp;&nbsp;慧</strong>（2023级）：
 <br><strong>万&nbsp;&nbsp;&nbsp;&nbsp;程</strong>（2022级）：《地方政府债务对经济下行风险的影响——基于在险增长的实证分析》
-<br><strong>吴含秋</strong>（2022级）：《Timing China’s Factor Zoo》
-<br><strong>侯智辉（Gifai Hau）</strong>（2022级）：《注册制改革对IPO公司“业绩变脸”的影响：一个准自然实验》
+<br><strong>吴含秋</strong>（2022级）：《注册制改革对IPO公司“业绩变脸”的影响：一个准自然实验》
+<br><strong>侯智辉（Gifai Hau）</strong>（2022级）：《Timing China’s Factor Zoo》
 
 <strong>本科生:</strong>
 <br><strong>王浩哲</strong>（2022级）：
