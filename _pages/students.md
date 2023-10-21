@@ -11,7 +11,7 @@ author_profile: false
 <br><strong>黄舟佳</strong>（2023级）：
 <br><strong>陈&nbsp;&nbsp;&nbsp;&nbsp;慧</strong>（2023级）：
 <br><strong>万&nbsp;&nbsp;&nbsp;&nbsp;程</strong>（2022级）：《地方政府债务对经济下行风险的影响——基于在险增长的实证分析》
-<br><strong>吴含秋</strong>（2022级）：《注册制改革对IPO公司“业绩变脸”的影响：一个准自然实验》
+<br><strong>吴含秋</strong>（2022级）：《注册制改革对IPO公司“业绩变脸”的影响：一个准自然实验》[下载链接]
 <br><strong>侯智辉（Gifai Hau）</strong>（2022级）：《Timing China’s Factor Zoo》
 
 <strong>本科生:</strong>
@@ -23,14 +23,14 @@ author_profile: false
 <br><strong>谢依晨</strong>（2021级）：
 <br><strong>朱逸然</strong>（2021级）：
 <br><strong>吴昶旭</strong>（2021级）：
-<br><strong>姚&nbsp;&nbsp;&nbsp;&nbsp;鑫</strong>（2020级）：《中国的股权溢价之谜存在吗？——基于稳健推断方法》
-<br><strong>夏天亮</strong>（2020级）：《因子无法观测情形下中国股市定价研究》
+<br><strong>姚&nbsp;&nbsp;&nbsp;&nbsp;鑫</strong>（2020级）：《中国的股权溢价之谜存在吗？——基于稳健推断方法》[下载链接]
+<br><strong>夏天亮</strong>（2020级）：《因子无法观测情形下中国股市定价研究》[下载链接]
 <br><strong>兰&nbsp;&nbsp;&nbsp;&nbsp;天</strong>（2020级）：《收缩中国股市的横截面》
 <br><strong>李心怡</strong>（2020级）：
 <br><strong>王相卿</strong>（2020级）：
 <br><strong>阎佳婷</strong>（2019级）：《基于IPCA方法的中国股市定价研究》（成绩A，优秀毕业论文）
-<br><strong>邵晶晶</strong>（2019级）：《基于RP-PCA方法的中国股市定价研究》（成绩A-）
-<br><strong>牛一帆</strong>（2019级）：《普惠金融对促进经济内循环的影响研究——基于63个国家数据的实证分析》（成绩A-）
+<br><strong>邵晶晶</strong>（2019级）：《基于RP-PCA方法的中国股市定价研究》（成绩A-）[下载链接]
+<br><strong>牛一帆</strong>（2019级）：《普惠金融对促进经济内循环的影响研究——基于63个国家数据的实证分析》（成绩A-）[下载链接]
 <br><strong>张诗雨</strong>（2019级）：《绿色金融对碳减排效应的影响——来自跨国的经验证据》（成绩B+）
 <br><strong>李宜珈</strong>（2019级）：《消费券补贴与在险增长——基于“爱购上海”电子消费券的分析》（成绩B）
 <br><strong>张昕怡</strong>（2018级）：《人口老龄化对我国商业人身保险消费影响的实证研究》（成绩A）
