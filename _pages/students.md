@@ -18,7 +18,7 @@ author_profile: false
 <br><strong>王浩哲</strong>（2022级）：
 <br><strong>羡舒涵</strong>（2022级）：
 <br><strong>卓浩天</strong>（2021级）：
-<br><strong>林泽铭</strong>（2021级）：
+<br><strong>林泽铭</strong>（2021级）：《弱因子情形下中国股市定价研究》
 <br><strong>傅思宇</strong>（2021级）：
 <br><strong>谢依晨</strong>（2021级）：
 <br><strong>朱逸然</strong>（2021级）：

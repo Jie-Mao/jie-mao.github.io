@@ -5,13 +5,22 @@ permalink: /publications/
 author_profile: false
 ---
 
-### 已刊论文
+### 已刊代表性英文论文
 
-【6】A Continuous Time Macro-Finance Model with Knightian Uncertainty（with申冠雄、颜镜洲）<br>
+【2】A Continuous Time Macro-Finance Model with Knightian Uncertainty（with申冠雄、颜镜洲）<br>
 《Pacific-Basin Finance Journal》2023年第1期（第77卷）<br>
 [下载链接](https://www.sciencedirect.com/science/article/pii/S0927538X22002244)<br>
 [网络附录](https://jie-mao.github.io/files/Appendix PBFJ.pdf)<br>
 注：这是2020年第17届中国金融学年会入选论文，也是本人博士后研究报告第四章的主要内容。<br>
+
+【1】Does Equity Premium Puzzle Exist in China: An Analysis with the Robust Inference Method（with颜千卉、姚鑫）<br>
+《Applied Economics Letters》已录用<br>
+下载链接<br>
+网络附录<br>
+注：这是所指导的本科生姚鑫的毕业论文主要内容。<br>
+
+
+### 已刊代表性中文论文
 
 【5】股市信息不对称对股价暴跌的影响——基于不确定性的新视角（with刘红忠）<br>
 《管理科学学报》2023年第8期（封面文章）<br>
@@ -51,9 +60,8 @@ author_profile: false
 
 【1】Government Intervention, Strategic Trading, and Market Quality（with颜镜洲、颜千卉）<br>
 【2】融资融券交易对我国股市信息不对称风险的影响：理论建模与实证检验（with刘红忠、邓东升）<br>
-【3】经济不确定性对宏观经济系统性风险的影响与宏观审慎监管的效果——基于连续时间宏观经济金融学模型（with刘红忠、颜镜洲）<br>
-【4】经济不确定性、宏观经济系统性风险与货币政策和宏观审慎监管双支柱调控——基于连续时间金融方法（with刘红忠、罗德庆、颜镜洲）<br>
-【5】奈特不确定性对宏观经济风险的影响——兼论资本账户开放下的国际宏观审慎监管的效果（with刘红忠、颜镜洲）<br>
-【6】连续时间宏观经济金融学的研究进展（with刘红忠）<br>
-【7】模糊波动下的策略交易和市场质量（with颜镜洲、李仲飞）<br>
-【8】基于双重选择LASSO 模型的我国股市定价因子有效性研究（with陈宓舟）
+【3】经济不确定性、宏观经济系统性风险与货币政策和宏观审慎监管双支柱调控——基于连续时间金融方法（with刘红忠、罗德庆、颜镜洲）<br>
+【4】奈特不确定性对宏观经济风险的影响——兼论资本账户开放下的国际宏观审慎监管的效果（with刘红忠、颜镜洲）<br>
+【5】连续时间宏观经济金融学的研究进展（with刘红忠）<br>
+【6】模糊波动下的策略交易和市场质量（with颜镜洲、李仲飞）<br>
+【7】基于双重选择LASSO模型的我国股市定价因子有效性研究（with陈宓舟）
