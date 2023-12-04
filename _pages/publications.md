@@ -23,8 +23,8 @@ author_profile: false
 
 【6】股市信息不对称对股价暴跌的影响——基于不确定性的新视角（with刘红忠）<br>
 《管理科学学报》2023年第8期（封面文章）<br>
-下载链接(https://kns.cnki.net/kcms2/article/abstract?v=ebrKgZyeBkzF5WsXQd1aqgKWKIpRRx2Om4U4fnO9tzXrSdWvpxDxi66AaR_CDwvEjMpgGgV7de-izODThwt9DjZbRpbRLqf5mMK78qLbArKMRSiJOSlRBODp90hZR4enPj72cGFpSAfrjAc14vHTNA==&uniplatform=NZKPT&language=CHS)<br>
-网络附录(https://jie-mao.github.io/files/app4.pdf)<br>
+[下载链接](https://kns.cnki.net/kcms2/article/abstract?v=ebrKgZyeBkzF5WsXQd1aqgKWKIpRRx2Om4U4fnO9tzXrSdWvpxDxi66AaR_CDwvEjMpgGgV7de-izODThwt9DjZbRpbRLqf5mMK78qLbArKMRSiJOSlRBODp90hZR4enPj72cGFpSAfrjAc14vHTNA==&uniplatform=NZKPT&language=CHS)<br>
+[网络附录](https://jie-mao.github.io/files/app4.pdf)<br>
 注：这是2019年第16届中国金融学年会入选论文、第2届金融学者论坛入选论文，也是本人博士论文第六章的主要内容。<br>
 
 【5】P2P网络借贷平台爆发风险事件问题的研究——基于实物期权理论的视角（with刘红忠）<br>
