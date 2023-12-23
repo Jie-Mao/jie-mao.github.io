@@ -11,12 +11,12 @@ author_profile: false
 《Pacific-Basin Finance Journal》2023年第1期（第77卷）<br>
 [下载链接](https://www.sciencedirect.com/science/article/pii/S0927538X22002244)<br>
 [网络附录](https://jie-mao.github.io/files/Appendix PBFJ.pdf)<br>
-[讲解视频]
+[讲解视频](https://www.bilibili.com/video/BV1bT411x7WD/?spm_id_from=333.999.0.0&vd_source=0126a284551b7711b711ebd537d74c78)<br>
 注：这是2020年第17届中国金融学年会入选论文，也是本人博士后研究报告第四章的主要内容。<br>
 
 【1】Does Equity Premium Puzzle Exist in China: An Analysis with the Robust Inference Method（with颜千卉、姚鑫）<br>
 《Applied Economics Letters》已录用<br>
-下载链接<br>
+下载链接(https://www.tandfonline.com/doi/full/10.1080/00036846.2023.2295302)<br>
 注：这是所指导的本科生姚鑫的毕业论文主要内容。<br>
 
 
@@ -24,7 +24,7 @@ author_profile: false
 
 【6】股市信息不对称对股价暴跌的影响——基于不确定性的新视角（with刘红忠）<br>
 《管理科学学报》2023年第8期（封面文章）<br>
-[下载链接](https://kns.cnki.net/kcms2/article/abstract?v=ebrKgZyeBkzF5WsXQd1aqgKWKIpRRx2Om4U4fnO9tzXrSdWvpxDxi66AaR_CDwvEjMpgGgV7de-izODThwt9DjZbRpbRLqf5mMK78qLbArKMRSiJOSlRBODp90hZR4enPj72cGFpSAfrjAc14vHTNA==&uniplatform=NZKPT&language=CHS)<br>
+[下载链接](https://kns.cnki.net/kcms2/article/abstract?v=pFbCq-yO4FDzjkLnvnftR1icn3Fv7-BrQ9o2fh07G-lG-nXgp8Mkebuj_bsjOkriW9f-awqo793Yi3il95gG7yf9YyaqxdbjlGBTZZ9MLV5kmq9FxkAuWUTckCn_JQ1H-7P1MeXi0NxD9Ek3Qk2mAQ==&uniplatform=NZKPT&language=CHS)<br>
 [网络附录](https://jie-mao.github.io/files/app4.pdf)<br>
 注：这是2019年第16届中国金融学年会入选论文、第2届金融学者论坛入选论文，也是本人博士论文第六章的主要内容。<br>
 

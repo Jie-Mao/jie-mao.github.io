@@ -17,13 +17,14 @@ author_profile: false
 <strong>本科生:</strong>
 <br><strong>王浩哲</strong>（2022级）：
 <br><strong>羡舒涵</strong>（2022级）：
+<br><strong>王璨璨</strong>（2022级）：
 <br><strong>卓浩天</strong>（2021级）：
 <br><strong>林泽铭</strong>（2021级）：《弱因子情形下中国股市定价研究》
 <br><strong>傅思宇</strong>（2021级）：
 <br><strong>谢依晨</strong>（2021级）：
 <br><strong>朱逸然</strong>（2021级）：
 <br><strong>吴昶旭</strong>（2021级）：
-<br><strong>姚&nbsp;&nbsp;&nbsp;&nbsp;鑫</strong>（2020级）：《中国的股权溢价之谜存在吗？——基于稳健推断方法》[下载链接]
+<br><strong>姚&nbsp;&nbsp;&nbsp;&nbsp;鑫</strong>（2020级）：《中国的股权溢价之谜存在吗？——基于稳健推断方法》[下载链接](https://www.tandfonline.com/doi/full/10.1080/00036846.2023.2295302)
 <br><strong>夏天亮</strong>（2020级）：《因子无法观测情形下中国股市定价研究》[下载链接](https://www.mdpi.com/2227-9091/11/12/215)
 <br><strong>兰&nbsp;&nbsp;&nbsp;&nbsp;天</strong>（2020级）：《收缩中国股市的横截面》
 <br><strong>李心怡</strong>（2020级）：
