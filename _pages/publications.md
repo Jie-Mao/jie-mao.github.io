@@ -16,7 +16,7 @@ author_profile: false
 
 【1】Does Equity Premium Puzzle Exist in China: An Analysis with the Robust Inference Method（with颜千卉、姚鑫）<br>
 《Applied Economics Letters》已录用<br>
-下载链接(https://www.tandfonline.com/doi/full/10.1080/00036846.2023.2295302)<br>
+[下载链接](https://www.tandfonline.com/doi/full/10.1080/00036846.2023.2295302)<br>
 注：这是所指导的本科生姚鑫的毕业论文主要内容。<br>
 
 
