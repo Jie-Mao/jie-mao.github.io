@@ -19,7 +19,7 @@ author_profile: false
 <br><strong>羡舒涵</strong>（2022级）：
 <br><strong>王璨璨</strong>（2022级）：
 <br><strong>卓浩天</strong>（2021级）：
-<br><strong>林泽铭</strong>（2021级）：《弱因子情形下中国股市定价研究》
+<br><strong>林泽铭</strong>（2021级）：《弱因子情形下中国股市定价研究——基于监督主成份分析法》
 <br><strong>傅思宇</strong>（2021级）：
 <br><strong>谢依晨</strong>（2021级）：
 <br><strong>朱逸然</strong>（2021级）：
@@ -30,7 +30,7 @@ author_profile: false
 <br><strong>李心怡</strong>（2020级）：
 <br><strong>王相卿</strong>（2020级）：
 <br><strong>阎佳婷</strong>（2019级）：《基于IPCA方法的中国股市定价研究》（成绩A，优秀毕业论文）
-<br><strong>邵晶晶</strong>（2019级）：《基于RP-PCA方法的中国股市定价研究》（成绩A-）[下载链接]
+<br><strong>邵晶晶</strong>（2019级）：《基于RP-PCA方法的中国股市定价研究》（成绩A-）[下载链接](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4635632)
 <br><strong>牛一帆</strong>（2019级）：《普惠金融对促进经济内循环的影响研究——基于63个国家数据的实证分析》（成绩A-）[下载链接]
 <br><strong>张诗雨</strong>（2019级）：《绿色金融对碳减排效应的影响——来自跨国的经验证据》（成绩B+）[下载链接](http://www.sjemr.org/download/SJEMR-5-11-210-219.pdf)
 <br><strong>李宜珈</strong>（2019级）：《消费券补贴与在险增长——基于“爱购上海”电子消费券的分析》（成绩B）
