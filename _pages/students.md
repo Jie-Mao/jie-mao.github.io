@@ -29,6 +29,7 @@ author_profile: false
 <br><strong>兰&nbsp;&nbsp;&nbsp;&nbsp;天</strong>（2020级）：《收缩中国股市的横截面》
 <br><strong>李心怡</strong>（2020级）：
 <br><strong>王相卿</strong>（2020级）：
+<br><strong>徐梦颖</strong>（2020级）：
 <br><strong>阎佳婷</strong>（2019级）：《基于IPCA方法的中国股市定价研究》（成绩A，优秀毕业论文）
 <br><strong>邵晶晶</strong>（2019级）：《基于RP-PCA方法的中国股市定价研究》（成绩A-）[下载链接](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4635632)
 <br><strong>牛一帆</strong>（2019级）：《普惠金融对促进经济内循环的影响研究——基于63个国家数据的实证分析》（成绩A-）[下载链接]

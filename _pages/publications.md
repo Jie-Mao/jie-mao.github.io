@@ -15,7 +15,7 @@ author_profile: false
 注：这是2020年第17届中国金融学年会入选论文，也是本人博士后研究报告第四章的主要内容。<br>
 
 【1】Does Equity Premium Puzzle Exist in China: An Analysis with the Robust Inference Method（with颜千卉、姚鑫）<br>
-《Applied Economics Letters》已录用<br>
+《Applied Economics》已录用<br>
 [下载链接](https://www.tandfonline.com/doi/full/10.1080/00036846.2023.2295302)<br>
 注：这是所指导的本科生姚鑫的毕业论文主要内容。<br>
 
@@ -59,6 +59,7 @@ author_profile: false
 
 ### 基金项目
 
+【2】中国财政学会2023年度课题
 【1】中国博士后基金面上项目
 
 ### ​​​​​工作论文
