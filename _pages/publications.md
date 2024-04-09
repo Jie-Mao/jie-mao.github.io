@@ -24,7 +24,7 @@ author_profile: false
 
 【6】股市信息不对称对股价暴跌的影响——基于不确定性的新视角（with刘红忠）<br>
 《管理科学学报》2023年第8期（封面文章）<br>
-[下载链接](https://kns.cnki.net/kcms2/article/abstract?v=pFbCq-yO4FDzjkLnvnftR1icn3Fv7-BrQ9o2fh07G-lG-nXgp8Mkebuj_bsjOkriW9f-awqo793Yi3il95gG7yf9YyaqxdbjlGBTZZ9MLV5kmq9FxkAuWUTckCn_JQ1H-7P1MeXi0NxD9Ek3Qk2mAQ==&uniplatform=NZKPT&language=CHS)<br>
+[下载链接](https://kns.cnki.net/kcms2/article/abstract?v=ttOPOQ75YvK1uDlmmqr_Y0wqGesgfjcL6gN_dd0N0Wo1rXHEZgwJEQK4SWFHroYJW5pDyt72L1HNWiPp5BN4lxZaZ_CCanV8znPyB11t62vignhESjlj_hRfaAk_tuQZMfL0sQx0-ouEvrHcTZVp_A==&uniplatform=NZKPT&language=CHS)<br>
 [网络附录](https://jie-mao.github.io/files/app4.pdf)<br>
 注：这是2019年第16届中国金融学年会入选论文、第2届金融学者论坛入选论文，也是本人博士论文第六章的主要内容。<br>
 
@@ -59,7 +59,7 @@ author_profile: false
 
 ### 基金项目
 
-【2】中国财政学会2023年度课题
+【2】中国财政学会2023年度课题<br>
 【1】中国博士后基金面上项目
 
 ### ​​​​​工作论文

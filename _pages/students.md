@@ -7,22 +7,25 @@ author_profile: false
 
 
 <strong>金融硕士生:</strong>
-<br><strong>郝振兴</strong>（2023级）：
-<br><strong>黄舟佳</strong>（2023级）：
-<br><strong>陈&nbsp;&nbsp;&nbsp;&nbsp;慧</strong>（2023级）：
+<br><strong>夏天亮</strong>（2024级）：
+<br><strong>曹&nbsp;&nbsp;&nbsp;&nbsp;阳</strong>（2024级）：
+<br><strong>郝振兴</strong>（2023级）：《国家安全对跨境资本流动风险的影响——基于在险资本流动的分析》
+<br><strong>黄舟佳</strong>（2023级）：《“雪中送炭”还是“抱薪救火”？——纾困基金驰援对民营企业违约风险的影响》
+<br><strong>陈&nbsp;&nbsp;&nbsp;&nbsp;慧</strong>（2023级）：《生态司法强化能否助推企业漂绿治理？——基于环境资源审判庭设立的准自然实验》
 <br><strong>万&nbsp;&nbsp;&nbsp;&nbsp;程</strong>（2022级）：《地方政府债务对经济下行风险的影响——基于在险增长的实证分析》
 <br><strong>吴含秋</strong>（2022级）：《注册制改革对IPO公司“业绩变脸”的影响：一个准自然实验》[下载链接]
-<br><strong>侯智辉（Gifai Hau）</strong>（2022级）：《Timing China’s Factor Zoo》
+<br><strong>侯智辉（Gifai Hau）</strong>（2022级）：《Timing China’s Factor Zoo》[下载链接](https://kns.cnki.net/kcms2/article/abstract?v=ttOPOQ75YvK9I7eJD-rHHIJhgh4aA8ut3SMIbDCICfhbwqF6OvBvDqZerQafWiPwkvZe6YpPmyGwRHzUB_9G6QSWPnBiRR-LrGonr2nKCyyh8LKePna1fNbEcqoD9t7MepxC5pUM8kk=&uniplatform=NZKPT&language=CHS)
 
 <strong>本科生:</strong>
 <br><strong>王浩哲</strong>（2022级）：
 <br><strong>羡舒涵</strong>（2022级）：
 <br><strong>王璨璨</strong>（2022级）：
-<br><strong>卓浩天</strong>（2021级）：
+<br><strong>王&nbsp;&nbsp;&nbsp;&nbsp;卓</strong>（2022级）：
+<br><strong>卓浩天</strong>（2021级）：《基于贝叶斯模型平均的中国股市定价研究》
 <br><strong>林泽铭</strong>（2021级）：《弱因子情形下中国股市定价研究——基于监督主成份分析法》
 <br><strong>傅思宇</strong>（2021级）：
 <br><strong>谢依晨</strong>（2021级）：
-<br><strong>朱逸然</strong>（2021级）：
+<br><strong>林嘉颐</strong>（2021级）：
 <br><strong>吴昶旭</strong>（2021级）：
 <br><strong>姚&nbsp;&nbsp;&nbsp;&nbsp;鑫</strong>（2020级）：《中国的股权溢价之谜存在吗？——基于稳健推断方法》[下载链接](https://www.tandfonline.com/doi/full/10.1080/00036846.2023.2295302)
 <br><strong>夏天亮</strong>（2020级）：《因子无法观测情形下中国股市定价研究》[下载链接](https://www.mdpi.com/2227-9091/11/12/215)
