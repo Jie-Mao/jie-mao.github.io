@@ -5,6 +5,8 @@ permalink: /students/
 author_profile: false
 ---
 
+<strong>金融学硕士生:</strong>
+<br><strong>任棚伟</strong>（2024级）：
 
 <strong>金融硕士生:</strong>
 <br><strong>夏天亮</strong>（2024级）：
@@ -27,12 +29,14 @@ author_profile: false
 <br><strong>谢依晨</strong>（2021级）：
 <br><strong>林嘉颐</strong>（2021级）：
 <br><strong>吴昶旭</strong>（2021级）：
+<br><strong>黄子杰</strong>（2021级）：
+<br><strong>罗德治</strong>（2021级）：
 <br><strong>姚&nbsp;&nbsp;&nbsp;&nbsp;鑫</strong>（2020级）：《中国的股权溢价之谜存在吗？——基于稳健推断方法》[下载链接](https://www.tandfonline.com/doi/full/10.1080/00036846.2023.2295302)
 <br><strong>夏天亮</strong>（2020级）：《因子无法观测情形下中国股市定价研究》[下载链接](https://www.mdpi.com/2227-9091/11/12/215)
 <br><strong>兰&nbsp;&nbsp;&nbsp;&nbsp;天</strong>（2020级）：《收缩中国股市的横截面》
-<br><strong>李心怡</strong>（2020级）：
-<br><strong>王相卿</strong>（2020级）：
-<br><strong>徐梦颖</strong>（2020级）：
+<br><strong>李心怡</strong>（2020级）：《银行竞争对小微企业融资的影响研究》[下载链接]
+<br><strong>王相卿</strong>（2020级）：《基于深度学习方法的期权收益研究》
+<br><strong>徐梦颖</strong>（2020级）：《基于减秩方法的中国股市定价研究》[下载链接]
 <br><strong>阎佳婷</strong>（2019级）：《基于IPCA方法的中国股市定价研究》（成绩A，优秀毕业论文）
 <br><strong>邵晶晶</strong>（2019级）：《基于RP-PCA方法的中国股市定价研究》（成绩A-）[下载链接](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4635632)
 <br><strong>牛一帆</strong>（2019级）：《普惠金融对促进经济内循环的影响研究——基于63个国家数据的实证分析》（成绩A-）[下载链接]
