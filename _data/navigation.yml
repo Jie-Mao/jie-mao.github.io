@@ -6,6 +6,9 @@ main:
   - title: "教学"
     url: /teaching/    
     
+  - title: "数据"
+    url: /dataset/  
+
   - title: "荣誉"
     url: /portfolio/
  
