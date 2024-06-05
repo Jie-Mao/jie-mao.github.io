@@ -12,7 +12,7 @@ author_profile: false
 <br><strong>（3）随机博弈方向、微分对策方向</strong>
 <br><strong>（4）ODE、PDE、SDE数值解方向</strong>
 <br><strong>（5）随机分析方向（特别是跳跃扩散过程）</strong>
-<br><strong>（6）历史学方向（明史、清史、中国近代史）</strong>
+<br><strong>（6）历史学方向（清史、中国近代史）</strong>
 <br><strong>（7）华裔且母语为英语（此条仅针对留学生）</strong>
 
 ### 具体培养要求：

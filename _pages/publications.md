@@ -24,7 +24,7 @@ author_profile: false
 
 【9】股市信息不对称对股价暴跌的影响——基于不确定性的新视角（with刘红忠）<br>
 《管理科学学报》2023年第8期（封面文章）<br>
-[下载链接](https://kns.cnki.net/kcms2/article/abstract?v=ttOPOQ75YvK1uDlmmqr_Y0wqGesgfjcL6gN_dd0N0Wo1rXHEZgwJEQK4SWFHroYJW5pDyt72L1HNWiPp5BN4lxZaZ_CCanV8znPyB11t62vignhESjlj_hRfaAk_tuQZMfL0sQx0-ouEvrHcTZVp_A==&uniplatform=NZKPT&language=CHS)<br>
+[下载链接](https://kns.cnki.net/kcms2/article/abstract?v=wQLHse-RxfcncoN8mu9mcEZr_PUFUr1V3uHaonMv-D4WXJguzDloxrmk5Ko2qkxZPCgRbwOxuloRa2bUykM165vRMSyVer3-a8T4GehLpc0K7dhUgwRDeQxMwyB_-wm_HmAyH9YBYsMa_2SDZEGlAg==&uniplatform=NZKPT&language=CHS)<br>
 [网络附录](https://jie-mao.github.io/files/app4.pdf)<br>
 注：这是2019年第16届中国金融学年会入选论文、第2届金融学者论坛入选论文，也是本人博士论文第六章的主要内容。<br>
 
@@ -34,13 +34,13 @@ author_profile: false
 [网络附录](https://jie-mao.github.io/files/app3.pdf)<br>
 注：这是2016年第13届中国金融学年会入选论文，更早是本人博士阶段《公司金融学》的课程论文。<br>
 
-【7】模糊波动下的策略交易和市场质量（with颜镜洲、李仲飞）<br>
+【7】模糊波动下的策略交易和市场质量（with颜镜洲、李仲飞、李星毅）<br>
 《中国管理科学》已录用<br>
-[下载链接]<br>
+[下载链接](https://kns.cnki.net/kcms2/article/abstract?v=wQLHse-RxfeW7YZEFtoo8_1sliR--HTNurq3whlDf4bvEeqw78Wahcyv6GtALw6m-kSpeqOe91M94gkfoUxprKKLuk4O65MxrwxBB8x-Q_PHNDJeBm0q3NXPw00R9lcXe5zPmhkcJe0=&uniplatform=NZKPT&language=CHS))<br>
 
 【6】注册制改革对IPO公司“业绩变脸”的影响：一个准自然实验（with吴含秋）<br>
 《外国经济与管理》已录用<br>
-[下载链接](https://kns.cnki.net/kcms2/article/abstract?v=8WLnD7pOpNFENS00fqlXHX_WHFNn7vo5CX205T1gdzZLWQWO_keaXr6CawtwnqlzAy1545qGu5bmx0uBNmM43b0DtxROTYsbGIitODcvLUN3s4rXDSFYo8cyODej8n_nuAPBb-uPALM=&uniplatform=NZKPT&language=CHS)<br>
+[下载链接](https://kns.cnki.net/kcms2/article/abstract?v=wQLHse-Rxfc7pEY91vHYuXadFGEnegefilM2j3Dri80oXNmGfkibluSsLD9v7FUe81eusgblQuSp8FPsu16Faq1xC-II8USozq5H4Ffkxa6hqc6RgNIQmIfK9Ru97MiCfphgmdNnZpA=&uniplatform=NZKPT&language=CHS)<br>
 注：这是所指导的硕士生吴含秋的毕业论文主要内容。<br>
 
 【5】基于双重选择LASSO模型的我国股市定价因子有效性研究（with陈宓舟、许磊、杜树楷）<br>
@@ -49,7 +49,7 @@ author_profile: false
 
 【4】连续时间宏观经济金融学的研究进展（with颜镜洲）<br>
 《经济资料译丛》2023年第4期（卷首文章）<br>
-[下载链接](https://kns.cnki.net/kcms2/article/abstract?v=8WLnD7pOpNFICB_DEY6YsZEDTZvWi-_fBBxdRyG8yHpBZt6Gy3kRMHu7JT1yTTQSwBqPkuS7Tj1Wgehe_DOAiDy0Q8SxmAkIL3xv8j604QTjQYfZq2ZRybi8gQpwilSamH8JZQTprRc=&uniplatform=NZKPT&language=CHS)<br>
+[下载链接](https://kns.cnki.net/kcms2/article/abstract?v=wQLHse-Rxfc7pEY91vHYuXadFGEnegefxQwYTwP5FZuWAjogVVysNO5jNoSKeyGeMO2kjM5JquiwCDorJKXxm9zuGoSobnmcSXvMq5XK1dW3YCSyRTfi7ajScFxqoY4zwqnryf2PvA4xYtWTHi4wWA==&uniplatform=NZKPT&language=CHS)<br>
 注：这是本人博士后研究报告第二章的主要内容。<br>
 
 【3】东道国大选对吸引国际直接投资的影响——基于政治经济周期视角（with夏小宝、田素华）<br>
