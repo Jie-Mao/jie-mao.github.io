@@ -12,12 +12,12 @@ author_profile: false
 [下载链接](https://www.sciencedirect.com/science/article/pii/S0927538X22002244)<br>
 [网络附录](https://jie-mao.github.io/files/Appendix PBFJ.pdf)<br>
 [讲解视频](https://www.bilibili.com/video/BV1bT411x7WD/?spm_id_from=333.999.0.0&vd_source=0126a284551b7711b711ebd537d74c78)<br>
-注：这是2020年第17届中国金融学年会入选论文，也是本人博士后研究报告第四章的主要内容。<br>
+<small>注：这是2020年第17届中国金融学年会入选论文，也是本人博士后研究报告第四章的主要内容。</small><br>
 
 【1】Does Equity Premium Puzzle Exist in China: An Analysis with the Robust Inference Method（with颜千卉、姚鑫）<br>
 《Applied Economics》已录用<br>
 [下载链接](https://www.tandfonline.com/doi/full/10.1080/00036846.2023.2295302)<br>
-注：这是所指导的本科生姚鑫的毕业论文主要内容。<br>
+<small>注：这是所指导的本科生姚鑫的毕业论文主要内容。</small><br>
 
 
 ### 已刊代表性中文论文
@@ -26,13 +26,13 @@ author_profile: false
 《管理科学学报》2023年第8期（封面文章）<br>
 [下载链接](https://kns.cnki.net/kcms2/article/abstract?v=wQLHse-RxfcncoN8mu9mcEZr_PUFUr1V3uHaonMv-D4WXJguzDloxrmk5Ko2qkxZPCgRbwOxuloRa2bUykM165vRMSyVer3-a8T4GehLpc0K7dhUgwRDeQxMwyB_-wm_HmAyH9YBYsMa_2SDZEGlAg==&uniplatform=NZKPT&language=CHS)<br>
 [网络附录](https://jie-mao.github.io/files/app4.pdf)<br>
-注：这是2019年第16届中国金融学年会入选论文、第2届金融学者论坛入选论文，也是本人博士论文第六章的主要内容。<br>
+<small>注：这是2019年第16届中国金融学年会入选论文、第2届金融学者论坛入选论文，也是本人博士论文第六章的主要内容。</small><br>
 
 【8】P2P网络借贷平台爆发风险事件问题的研究——基于实物期权理论的视角（with刘红忠）<br>
 《金融研究》2018年第11期（封面文章）<br>
 [下载链接](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2019&filename=JRYJ201811008&v=2zD1wu6NZ4fz6e0THfiwtEXeeSR4iImGXsPYUWxkL3CjG09c4mDQE1TOXSBTOck%25mmd2F)<br>
 [网络附录](https://jie-mao.github.io/files/app3.pdf)<br>
-注：这是2016年第13届中国金融学年会入选论文，更早是本人博士阶段《公司金融学》的课程论文。<br>
+<small>注：这是2016年第13届中国金融学年会入选论文，更早是本人博士阶段《公司金融学》的课程论文。</small><br>
 
 【7】模糊波动下的策略交易和市场质量（with颜镜洲、李仲飞、李星毅）<br>
 《中国管理科学》已录用<br>
@@ -41,7 +41,7 @@ author_profile: false
 【6】注册制改革对IPO公司“业绩变脸”的影响：一个准自然实验（with吴含秋）<br>
 《外国经济与管理》2024年第6期<br>
 [下载链接](https://kns.cnki.net/kcms2/article/abstract?v=wQLHse-Rxfc7pEY91vHYuXadFGEnegefilM2j3Dri80oXNmGfkibluSsLD9v7FUe81eusgblQuSp8FPsu16Faq1xC-II8USozq5H4Ffkxa6hqc6RgNIQmIfK9Ru97MiCfphgmdNnZpA=&uniplatform=NZKPT&language=CHS)<br>
-注：这是所指导的硕士生吴含秋的毕业论文主要内容。<br>
+<small>注：这是所指导的硕士生吴含秋的毕业论文主要内容。</small><br>
 
 【5】基于双重选择LASSO模型的我国股市定价因子有效性研究（with陈宓舟、许磊、杜树楷）<br>
 《系统工程理论与实践》已录用<br>
@@ -50,24 +50,24 @@ author_profile: false
 【4】连续时间宏观经济金融学的研究进展（with颜镜洲）<br>
 《经济资料译丛》2023年第4期（卷首文章）<br>
 [下载链接](https://kns.cnki.net/kcms2/article/abstract?v=wQLHse-Rxfc7pEY91vHYuXadFGEnegefxQwYTwP5FZuWAjogVVysNO5jNoSKeyGeMO2kjM5JquiwCDorJKXxm9zuGoSobnmcSXvMq5XK1dW3YCSyRTfi7ajScFxqoY4zwqnryf2PvA4xYtWTHi4wWA==&uniplatform=NZKPT&language=CHS)<br>
-注：这是本人博士后研究报告第二章的主要内容。<br>
+<small>注：这是本人博士后研究报告第二章的主要内容。</small><br>
 
 【3】东道国大选对吸引国际直接投资的影响——基于政治经济周期视角（with夏小宝、田素华）<br>
 《国际贸易问题》2021年第12期<br>
 [下载链接](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=GJMW202112009&uniplatform=NZKPT&v=6wEMP2ASji_pqjVv9PvoNsRjj7WrakBxn-MnX_bbD4ZhVa3FzNpy0GNgtelS1knc)<br>
 [网络附录](https://jie-mao.github.io/files/app1.pdf)<br>
-注：这是2017年第6届世界经济学会国际投资论坛入选论文，更早是本人博士阶段《国际投资学》的课程论文。<br>
+<small>注：这是2017年第6届世界经济学会国际投资论坛入选论文，更早是本人博士阶段《国际投资学》的课程论文。</small><br>
 
 【2】基于Copula-GARCH类模型的证券分类方法<br>
 《系统工程》2017年第4期<br>
 [下载链接](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2017&filename=GCXT201704007&v=SI33jjQ5RiUsDbqmpTXVFDIMcPXFclw1STcp1sN%25mmd2B49fLf5jruoz9xwoMaLVCr50O)<br>
 [网络附录](https://jie-mao.github.io/files/app2.pdf)<br>
-注：这是2014年第11届中国金融学年会入选论文，更早是本人硕士阶段《金融市场学》的课程论文。<br>
+<small>注：这是2014年第11届中国金融学年会入选论文，更早是本人硕士阶段《金融市场学》的课程论文。</small><br>
 
 【1】指数ETF期权上市对标的指数成份股市场质量的影响——来自上证50ETF期权上市的经验证据<br>
 《证券市场导报》2017年第3期封面文章（人大复印资料《投资与证券》2017年第7期全文转载）<br>
-[下载链接](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2017&filename=ZQDB201703011&v=13a9J8Ua5aK86ucr6Xh6DZ1rn3NueWM1TsDY9tK6KUQ6QM79qKW38O4TwnX5kVNh)<br>
-注：这是2015年第12届中国金融学年会入选论文。<br>
+[下载链接](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2017&filename=ZQDB201703011&v=13a9J8Ua5aK86ucr6Xh6DZ1rn3NueWM1TsDY9tK6KUQ6QM79qKW38O4TwnX5kVNh)</small><br>
+<small>注：这是2015年第12届中国金融学年会入选论文。<br>
 
 
 ### 基金项目
