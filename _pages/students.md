@@ -11,6 +11,7 @@ author_profile: false
 <strong>金融硕士生:</strong>
 <br><strong>夏天亮</strong>（2024级）：
 <br><strong>曹&nbsp;&nbsp;&nbsp;&nbsp;阳</strong>（2024级）：
+<br><strong>陈&nbsp;&nbsp;&nbsp;&nbsp;婷</strong>（2024级）：
 <br><strong>郝振兴</strong>（2023级）：《国家安全对跨境资本流动风险的影响——基于在险资本流动的分析》[下载链接]
 <br><strong>黄舟佳</strong>（2023级）：《“雪中送炭”还是“抱薪救火”？——纾困基金驰援对民营企业违约风险的影响》[下载链接]
 <br><strong>陈&nbsp;&nbsp;&nbsp;&nbsp;慧</strong>（2023级）：《生态司法强化能否助推企业漂绿治理？——基于环境资源审判庭设立的准自然实验》[下载链接]
@@ -19,11 +20,15 @@ author_profile: false
 <br><strong>侯智辉（Gifai Hau）</strong>（2022级）：《Timing China’s Factor Zoo》[下载链接]
 
 <strong>本科生:</strong>
+<br><strong>王浩哲</strong>（2024级）：
+<br><strong>杨昊锟</strong>（2023级）：
+<br><strong>汪隆俊</strong>（2023级）：
+<br><strong>向&nbsp;&nbsp;&nbsp;&nbsp;磊</strong>（2023级）：
 <br><strong>王浩哲</strong>（2022级）：
 <br><strong>羡舒涵</strong>（2022级）：
 <br><strong>王璨璨</strong>（2022级）：
 <br><strong>王&nbsp;&nbsp;&nbsp;&nbsp;卓</strong>（2022级）：
-<br><strong>卓浩天</strong>（2021级）：《基于贝叶斯模型平均的中国股市定价研究》
+<br><strong>卓浩天</strong>（2021级）：《基于贝叶斯模型平均的中国股市定价研究》[下载链接](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4965590)
 <br><strong>林泽铭</strong>（2021级）：《弱因子情形下中国股市定价研究——基于监督主成份分析法》
 <br><strong>傅思宇</strong>（2021级）：
 <br><strong>谢依晨</strong>（2021级）：
