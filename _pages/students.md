@@ -20,7 +20,7 @@ author_profile: false
 <br><strong>侯智辉（Gifai Hau）</strong>（2022级）：《Timing China’s Factor Zoo》[下载链接]
 
 <strong>本科生:</strong>
-<br><strong>王浩哲</strong>（2024级）：
+<br><strong>邓博文</strong>（2024级）：
 <br><strong>杨昊锟</strong>（2023级）：
 <br><strong>汪隆俊</strong>（2023级）：
 <br><strong>向&nbsp;&nbsp;&nbsp;&nbsp;磊</strong>（2023级）：
