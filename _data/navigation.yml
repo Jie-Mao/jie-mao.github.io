@@ -21,6 +21,9 @@ main:
   - title: "招生"
     url: /year-archive/
 
+  - title: "集锦"
+    url: /photo/
+
   - title: "English"
     url: /english/
 

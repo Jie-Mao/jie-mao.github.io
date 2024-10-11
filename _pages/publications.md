@@ -45,7 +45,7 @@ author_profile: false
 
 【5】注册制改革对IPO公司“业绩变脸”的影响：一个准自然实验（with吴含秋）<br>
 《外国经济与管理》2024年第6期<br>
-[下载链接](https://kns.cnki.net/kcms2/article/abstract?v=wQLHse-Rxfc7pEY91vHYuXadFGEnegefilM2j3Dri80oXNmGfkibluSsLD9v7FUe81eusgblQuSp8FPsu16Faq1xC-II8USozq5H4Ffkxa6hqc6RgNIQmIfK9Ru97MiCfphgmdNnZpA=&uniplatform=NZKPT&language=CHS)<br>
+[下载链接](https://kns.cnki.net/kcms2/article/abstract?v=acR2UJ02YhT9BcISyEESTDsN5gFZN1OGO8UOSDpR_2HEotrgZUWy9Zc54iFDjEDsNhG-jlblOmOcM7141uuKdMAEfjnVwb6EfeuU22oXOisd5sedFL4gv4W-jdjCLxCesZeaNfLaIlKKoQngbl6uZ41Cs6xwe6aYLdR3bQK7Hg0GXcpeDo_srVFBPHI8h3Bx&uniplatform=NZKPT&language=CHS)<br>
 <small>注：这是所指导的硕士生吴含秋的毕业论文主要内容。</small><br>
 
 【4】连续时间宏观经济金融学的研究进展（with颜镜洲）<br>
@@ -67,8 +67,8 @@ author_profile: false
 
 【1】指数ETF期权上市对标的指数成份股市场质量的影响——来自上证50ETF期权上市的经验证据<br>
 《证券市场导报》2017年第3期封面文章（人大复印资料《投资与证券》2017年第7期全文转载）<br>
-[下载链接](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2017&filename=ZQDB201703011&v=13a9J8Ua5aK86ucr6Xh6DZ1rn3NueWM1TsDY9tK6KUQ6QM79qKW38O4TwnX5kVNh)</small><br>
-<small>注：这是2015年第12届中国金融学年会入选论文。<br>
+[下载链接](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2017&filename=ZQDB201703011&v=13a9J8Ua5aK86ucr6Xh6DZ1rn3NueWM1TsDY9tK6KUQ6QM79qKW38O4TwnX5kVNh)<br>
+<small>注：这是2015年第12届中国金融学年会入选论文。</small><br>
 
 
 ### 基金项目
@@ -81,6 +81,7 @@ author_profile: false
 【1】Government Intervention, Strategic Trading, and Market Quality（with颜镜洲、颜千卉）<br>
 【2】Risk Premium Principal Components for the Chinese Stock Market（with邵晶晶、王伟冠）（2023年第四季度SSRN风险溢价领域十大下载论文）[下载链接](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4635632)<br>
 【3】Taming China's Factor Zoo with a Bayesian Method（with夏小宝、卓浩天）[下载链接](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4965590)<br>
-【4】融资融券交易对我国股市信息不对称风险的影响：理论建模与实证检验（with刘红忠、邓东升）<br>
-【5】经济不确定性、宏观经济系统性风险与货币政策和宏观审慎监管双支柱调控——基于连续时间金融方法（with刘红忠、罗德庆、颜镜洲）<br>
-【6】奈特不确定性对宏观经济风险的影响——兼论资本账户开放下的国际宏观审慎监管的效果（with刘红忠、颜镜洲）<br>
+【4】A latent factor model for the Chinese option market（with裴启源、王伟冠、卓浩天）
+【5】融资融券交易对我国股市信息不对称风险的影响：理论建模与实证检验（with刘红忠、邓东升）<br>
+【6】经济不确定性、宏观经济系统性风险与货币政策和宏观审慎监管双支柱调控——基于连续时间金融方法（with刘红忠、罗德庆、颜镜洲）<br>
+【7】奈特不确定性对宏观经济风险的影响——兼论资本账户开放下的国际宏观审慎监管的效果（with刘红忠、颜镜洲）<br>
