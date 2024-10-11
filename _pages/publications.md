@@ -81,7 +81,7 @@ author_profile: false
 【1】Government Intervention, Strategic Trading, and Market Quality（with颜镜洲、颜千卉）<br>
 【2】Risk Premium Principal Components for the Chinese Stock Market（with邵晶晶、王伟冠）（2023年第四季度SSRN风险溢价领域十大下载论文）[下载链接](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4635632)<br>
 【3】Taming China's Factor Zoo with a Bayesian Method（with夏小宝、卓浩天）[下载链接](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4965590)<br>
-【4】A latent factor model for the Chinese option market（with裴启源、王伟冠、卓浩天）
+【4】A latent factor model for the Chinese option market（with裴启源、王伟冠、卓浩天）<br>
 【5】融资融券交易对我国股市信息不对称风险的影响：理论建模与实证检验（with刘红忠、邓东升）<br>
 【6】经济不确定性、宏观经济系统性风险与货币政策和宏观审慎监管双支柱调控——基于连续时间金融方法（with刘红忠、罗德庆、颜镜洲）<br>
 【7】奈特不确定性对宏观经济风险的影响——兼论资本账户开放下的国际宏观审慎监管的效果（with刘红忠、颜镜洲）<br>
