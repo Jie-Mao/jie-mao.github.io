@@ -7,15 +7,20 @@ author_profile: false
 
 ### 已刊代表性英文论文
 
-【2】A Continuous Time Macro-Finance Model with Knightian Uncertainty（with申冠雄、颜镜洲）<br>
+【3】A Continuous Time Macro-Finance Model with Knightian Uncertainty（with申冠雄、颜镜洲）<br>
 《Pacific-Basin Finance Journal》2023年第1期（第77卷）<br>
 [下载链接](https://www.sciencedirect.com/science/article/pii/S0927538X22002244)<br>
 [网络附录](https://jie-mao.github.io/files/Appendix PBFJ.pdf)<br>
 [讲解视频](https://www.bilibili.com/video/BV1bT411x7WD/?spm_id_from=333.999.0.0&vd_source=0126a284551b7711b711ebd537d74c78)<br>
 <small>注：这是2020年第17届中国金融学年会入选论文，也是本人博士后研究报告第四章的主要内容。</small><br>
 
+【2】Risk Premium Principal Components for the Chinese Stock Market（with邵晶晶、王伟冠）<br>
+《Pacific-Basin Finance Journal》2025年第1期（第89卷）<br>
+[下载链接](https://www.sciencedirect.com/science/article/abs/pii/S0927538X24003317)<br>
+<small>注：这是所指导的本科生邵晶晶的毕业论文主要内容，也是2023年第四季度SSRN风险溢价领域十大下载论文。</small><br>
+
 【1】Does Equity Premium Puzzle Exist in China: An Analysis with the Robust Inference Method（with颜千卉、姚鑫）<br>
-《Applied Economics》已录用<br>
+《Applied Economics》2024年第59期（第56卷）<br>
 [下载链接](https://www.tandfonline.com/doi/full/10.1080/00036846.2023.2295302)<br>
 <small>注：这是所指导的本科生姚鑫的毕业论文主要内容。</small><br>
 
@@ -79,9 +84,8 @@ author_profile: false
 ### ​​​​​工作论文
 
 【1】Government Intervention, Strategic Trading, and Market Quality（with颜镜洲、颜千卉）<br>
-【2】Risk Premium Principal Components for the Chinese Stock Market（with邵晶晶、王伟冠）（2023年第四季度SSRN风险溢价领域十大下载论文）[下载链接](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4635632)<br>
-【3】Taming China's Factor Zoo with a Bayesian Method（with夏小宝、卓浩天）[下载链接](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4965590)<br>
-【4】A latent factor model for the Chinese option market（with裴启源、王伟冠、卓浩天）<br>
-【5】融资融券交易对我国股市信息不对称风险的影响：理论建模与实证检验（with刘红忠、邓东升）<br>
-【6】经济不确定性、宏观经济系统性风险与货币政策和宏观审慎监管双支柱调控——基于连续时间金融方法（with刘红忠、罗德庆、颜镜洲）<br>
-【7】奈特不确定性对宏观经济风险的影响——兼论资本账户开放下的国际宏观审慎监管的效果（with刘红忠、颜镜洲）<br>
+【2】Taming China's Factor Zoo with a Bayesian Method（with夏小宝、卓浩天）[下载链接](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4965590)<br>
+【3】A latent factor model for the Chinese option market（with裴启源、王伟冠、卓浩天）<br>
+【4】融资融券交易对我国股市信息不对称风险的影响：理论建模与实证检验（with刘红忠、邓东升）<br>
+【5】经济不确定性、宏观经济系统性风险与货币政策和宏观审慎监管双支柱调控——基于连续时间金融方法（with刘红忠、罗德庆、颜镜洲）<br>
+【6】奈特不确定性对宏观经济风险的影响——兼论资本账户开放下的国际宏观审慎监管的效果（with刘红忠、颜镜洲）<br>

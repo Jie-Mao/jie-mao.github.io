@@ -29,10 +29,10 @@ author_profile: false
 <br><strong>王璨璨</strong>（2022级）：
 <br><strong>王&nbsp;&nbsp;&nbsp;&nbsp;卓</strong>（2022级）：
 <br><strong>卓浩天</strong>（2021级）：《基于贝叶斯模型平均的中国股市定价研究》[下载链接](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4965590)
-<br><strong>林泽铭</strong>（2021级）：《弱因子情形下中国股市定价研究——基于监督主成份分析法》
-<br><strong>傅思宇</strong>（2021级）：
-<br><strong>谢依晨</strong>（2021级）：
-<br><strong>林嘉颐</strong>（2021级）：
+<br><strong>林泽铭</strong>（2021级）：《基于监督主成份分析的中国股市定价研究》
+<br><strong>傅思宇</strong>（2021级）：《中国股市的高频系统性风险研究》
+<br><strong>谢依晨</strong>（2021级）：《基于深度学习方法的中国股市定价研究》
+<br><strong>林嘉颐</strong>（2021级）：《基于树方法的中国股市定价研究》
 <br><strong>黄子杰</strong>（2021级）：
 <br><strong>姚&nbsp;&nbsp;&nbsp;&nbsp;鑫</strong>（2020级）：《中国的股权溢价之谜存在吗？——基于稳健推断方法》（成绩A，优秀毕业论文）[下载链接](https://www.tandfonline.com/doi/full/10.1080/00036846.2023.2295302)
 <br><strong>李心怡</strong>（2020级）：《银行竞争对小微企业融资的影响研究》（成绩B+）[下载链接]
