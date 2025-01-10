@@ -29,33 +29,33 @@ author_profile: false
 
 【9】股市信息不对称对股价暴跌的影响——基于不确定性的新视角（with刘红忠）<br>
 《管理科学学报》2023年第8期（封面文章）<br>
-[下载链接](https://kns.cnki.net/kcms2/article/abstract?v=wQLHse-RxfcncoN8mu9mcEZr_PUFUr1V3uHaonMv-D4WXJguzDloxrmk5Ko2qkxZPCgRbwOxuloRa2bUykM165vRMSyVer3-a8T4GehLpc0K7dhUgwRDeQxMwyB_-wm_HmAyH9YBYsMa_2SDZEGlAg==&uniplatform=NZKPT&language=CHS)<br>
+[下载链接](https://kns.cnki.net/kcms2/article/abstract?v=rdiHbV4QUxa-6IbPLAcc-mmxYiDZ8fkrEVnmVPDnSP1UqEQ9B8uvX5oY4Ju1BY8cecgamAKy6i76Ihr_Qw5R86o1DOUMsiUAQlLSaiDkL-KXKBhEAiWO-oVmNSaU0TUrVPWGXv82GtPNtNAWxlReDg==&uniplatform=NZKPT&language=CHS)<br>
 [网络附录](https://jie-mao.github.io/files/app4.pdf)<br>
 <small>注：这是2019年第16届中国金融学年会入选论文、第2届金融学者论坛入选论文，也是本人博士论文第六章的主要内容。</small><br>
 
 【8】P2P网络借贷平台爆发风险事件问题的研究——基于实物期权理论的视角（with刘红忠）<br>
 《金融研究》2018年第11期（封面文章）<br>
-[下载链接](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2019&filename=JRYJ201811008&v=2zD1wu6NZ4fz6e0THfiwtEXeeSR4iImGXsPYUWxkL3CjG09c4mDQE1TOXSBTOck%25mmd2F)<br>
+[下载链接](https://kns.cnki.net/kcms2/article/abstract?v=rdiHbV4QUxa-6IbPLAcc-mmxYiDZ8fkrEVnmVPDnSP3XX5HpIW2iBZxuG5FlD1lSi2Ef5cdWGUOe1FyFjpLzPla8Eu6t-g1OHSAdzBZ7D6RSPZ_Q9PsUgbKH0TiqxSXsgQxU5JquhKHbm5jpsgM2Hw==&uniplatform=NZKPT&language=CHS)<br>
 [网络附录](https://jie-mao.github.io/files/app3.pdf)<br>
 <small>注：这是2016年第13届中国金融学年会入选论文，更早是本人博士阶段《公司金融学》的课程论文。</small><br>
 
 【7】模糊波动下的策略交易和市场质量（with颜镜洲、李仲飞、李星毅）<br>
 《中国管理科学》已录用<br>
-[下载链接](https://kns.cnki.net/kcms2/article/abstract?v=wQLHse-RxfeW7YZEFtoo8_1sliR--HTNurq3whlDf4bvEeqw78Wahcyv6GtALw6m-kSpeqOe91M94gkfoUxprKKLuk4O65MxrwxBB8x-Q_PHNDJeBm0q3NXPw00R9lcXe5zPmhkcJe0=&uniplatform=NZKPT&language=CHS)<br>
+[下载链接](https://kns.cnki.net/kcms2/article/abstract?v=rdiHbV4QUxYv86fSo4PVGxWNsY1QSUM-TaShuDYHy4qsutpin9FV6nWNkx7_nm7USfTAjKTFVPL8C7l3GtIARcK575gm6vnjJGbIbdF9aUTVjT8Ykgf0iYTG5JKXWUNh4q8LRgPEL54=&uniplatform=NZKPT&language=CHS)<br>
 
 
 【6】基于双重选择LASSO模型的我国股市定价因子有效性研究（with陈宓舟、许磊、杜树楷）<br>
 《系统工程理论与实践》2024年第9期<br>
-[下载链接](https://kns.cnki.net/kcms2/article/abstract?v=z-1yOu6aphPN1EJZFh5cxqiGywilZ81wsoeUO7QDVfWpPxeLeIyqVsRuuEL9dF8E04BVCRtT_HdQAS-OOtW3WYoByiGdxP746ftn6ROdfu2mgXdZZaURf87SmHQnYL0_ABoXA6IfaAA=&uniplatform=NZKPT&language=CHS)<br>
+[下载链接](https://kns.cnki.net/kcms2/article/abstract?v=rdiHbV4QUxa053XKUR0q4CryLG09ABr7VP2i7OUF8l54OMh3KZGtwQQw8vZK1GQH3jV0i227KDg4KTzJYjNNHPZBaIr0a2Q6jUwb-2oPa2tsFfOsB1dXy1Sp9hFiXkckchna4dMxSetvBLMn2ES7JA==&uniplatform=NZKPT&language=CHS)<br>
 
 【5】注册制改革对IPO公司“业绩变脸”的影响：一个准自然实验（with吴含秋）<br>
 《外国经济与管理》2024年第6期<br>
-[下载链接](https://kns.cnki.net/kcms2/article/abstract?v=acR2UJ02YhT9BcISyEESTDsN5gFZN1OGO8UOSDpR_2HEotrgZUWy9Zc54iFDjEDsNhG-jlblOmOcM7141uuKdMAEfjnVwb6EfeuU22oXOisd5sedFL4gv4W-jdjCLxCesZeaNfLaIlKKoQngbl6uZ41Cs6xwe6aYLdR3bQK7Hg0GXcpeDo_srVFBPHI8h3Bx&uniplatform=NZKPT&language=CHS)<br>
+[下载链接](https://kns.cnki.net/kcms2/article/abstract?v=rdiHbV4QUxa-6IbPLAcc-mmxYiDZ8fkrEVnmVPDnSP0pE5EMIsM6CBdzgdaQcQ9BbEV-2IyMimIWZLg3JGTkzPhhcBqFfsu_fAz2ksFsX2HN8SSWcxURUSNkKDVtJUviinO6nux8lmdeaX4M-i5CvQ==&uniplatform=NZKPT&language=CHS)<br>
 <small>注：这是所指导的硕士生吴含秋的毕业论文主要内容。</small><br>
 
 【4】连续时间宏观经济金融学的研究进展（with颜镜洲）<br>
 《经济资料译丛》2023年第4期（卷首文章）<br>
-[下载链接](https://kns.cnki.net/kcms2/article/abstract?v=wQLHse-Rxfc7pEY91vHYuXadFGEnegefxQwYTwP5FZuWAjogVVysNO5jNoSKeyGeMO2kjM5JquiwCDorJKXxm9zuGoSobnmcSXvMq5XK1dW3YCSyRTfi7ajScFxqoY4zwqnryf2PvA4xYtWTHi4wWA==&uniplatform=NZKPT&language=CHS)<br>
+[下载链接](https://kns.cnki.net/kcms2/article/abstract?v=rdiHbV4QUxYv86fSo4PVGxWNsY1QSUM-eVKl8p-EWdxDfQG5DS-E8n-z5sxVBQp0lt42OlXuGaL8s4h7iv3xS2d9AduDNGOdEr01DnefURnDo1PxW6hxvniXKCCF6dLWXMJQDaHGYVj1gkk6LAiH8g==&uniplatform=NZKPT&language=CHS)<br>
 <small>注：这是本人博士后研究报告第二章的主要内容。</small><br>
 
 【3】东道国大选对吸引国际直接投资的影响——基于政治经济周期视角（with夏小宝、田素华）<br>
@@ -85,7 +85,7 @@ author_profile: false
 
 【1】Government Intervention, Strategic Trading, and Market Quality（with颜镜洲、颜千卉）<br>
 【2】Taming China's Factor Zoo with a Bayesian Method（with夏小宝、卓浩天）[下载链接](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4965590)<br>
-【3】A latent factor model for the Chinese option market（with裴启源、王伟冠、卓浩天）<br>
+【3】A latent factor model for the Chinese option market（with裴启源、王伟冠、卓浩天）[下载链接](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5071380)<br>
 【4】融资融券交易对我国股市信息不对称风险的影响：理论建模与实证检验（with刘红忠、邓东升）<br>
 【5】经济不确定性、宏观经济系统性风险与货币政策和宏观审慎监管双支柱调控——基于连续时间金融方法（with刘红忠、罗德庆、颜镜洲）<br>
 【6】奈特不确定性对宏观经济风险的影响——兼论资本账户开放下的国际宏观审慎监管的效果（with刘红忠、颜镜洲）<br>

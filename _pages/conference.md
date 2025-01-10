@@ -4,6 +4,8 @@ title: ""
 permalink: /conference/
 author_profile: false
 ---
+ <br><strong>2025年</strong>
+ <br>
  <br><strong>2024年</strong>
  <br>《国际金融研究》“以金融高质量发展全面推进金融强国建设”研讨会，中山大学，广东广州
  <br>《国际金融研究》“着力推进金融高水平开放，确保国家金融和经济安全”研讨会，复旦大学，上海
