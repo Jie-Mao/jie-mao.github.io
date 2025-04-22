@@ -7,7 +7,7 @@ author_profile: false
 
 <table width= "100%" frame=void>
   <tr>
-  <td width= "50%" > 
+  <td width= "60%" > 
     
     <strong>人才计划</strong>
     <br>上海市“超级博士后”人才资助（2019-2021）
@@ -31,6 +31,6 @@ author_profile: false
     <br>2019年上海市优秀毕业生（博士生）
     <br>2017年复旦大学优秀学生（博士生）
     <br>2017年国家奖学金（博士生） </td>
-  <td width= "50%" ><img src="/images/fig2.jpg" height="540" width="360"></td>
+  <td width= "40%" ><img src="/images/fig2.jpg" height="540" width="360"></td>
   </tr>
   <table>
