@@ -5,6 +5,9 @@ permalink: /conference/
 author_profile: false
 ---
  <br><strong>2025年</strong>
+ <br>2025年国际风险论坛，萨福克大学，美国波士顿
+ <br>复旦大学金融研究中心青年论坛，复旦大学，上海
+ <br>南土国际金融工作坊首期会议（点评人），复旦大学，上海 <a href="https://jie-mao.github.io/photo04/">集锦</a><br>
  <br>
  <br><strong>2024年</strong>
  <br>《国际金融研究》“以金融高质量发展全面推进金融强国建设”研讨会，中山大学，广东广州
@@ -14,7 +17,7 @@ author_profile: false
  <br>第十三届期货与衍生品国际学术会议，山东大学，山东济南
  <br>第四届中国智能金融产学研高峰论坛，上海财经大学，上海
  <br>2024中国科技金融学术年会，上海财经大学，上海
- <br>第八届中国衍生品青年论坛（主持人兼点评人），北京航空航天大学，北京<br> 
+ <br>第八届中国衍生品青年论坛暨第一届国际智能金融和区块链金融论坛（主持人兼点评人），北京航空航天大学，北京<br> 
  <br><strong>2023年</strong>
  <br>第二十届中国金融学年会，中央财经大学，北京
  <br>《经济研究》第四届中国宏观经济学者论坛，湖南大学，湖南长沙 <a href="https://jie-mao.github.io/photo03/">集锦</a>
@@ -39,7 +42,7 @@ author_profile: false
  <br>金融学术前沿seminar第120期，复旦大学，上海
  <br>川大经院午间Sinamer第101期，四川大学，四川成都
  <br>上海商学院，上海
- <br>西南政法大学，重庆
+ <br>西南政法大学，重庆<a href="https://es.swupl.edu.cn/xsyj/xshd/305360.htm">集锦</a>
  <br>乐山师范学院，四川乐山<br>
  <br><strong>2020年</strong>
  <br>第十七届中国金融学年会，对外经贸大学，北京（线上）

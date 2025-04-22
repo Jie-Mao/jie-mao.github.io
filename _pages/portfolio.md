@@ -14,7 +14,7 @@ author_profile: false
     <br>上海大学青年英才起航计划（2022–2025）<br>
     
     <br><strong>科研获奖</strong>
-    <br>2021年中国国际金融学会青年论坛优秀论文特等奖
+    <br>2021年中国国际金融学会青年论坛优秀论文特等奖 <a href="http://www.gjjryj.org.cn/CN/news/news26.shtml">报道</a><br>
     <br>2023年第三届中国智能金融高峰论坛优秀论文二等奖
     <br>2021年第二届PwC 3535金融论坛优秀论文奖
     <br>2020年第十七届中国金融学年会优秀论文提名奖
