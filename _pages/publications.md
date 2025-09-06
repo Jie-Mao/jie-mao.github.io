@@ -7,12 +7,17 @@ author_profile: false
 
 ### 已刊代表性英文论文
 
-【3】A Continuous Time Macro-Finance Model with Knightian Uncertainty（with申冠雄、颜镜洲）<br>
+【4】A Continuous Time Macro-Finance Model with Knightian Uncertainty（with申冠雄、颜镜洲）<br>
 《Pacific-Basin Finance Journal》2023年第1期（第77卷）<br>
 [下载链接](https://www.sciencedirect.com/science/article/pii/S0927538X22002244)<br>
 [网络附录](https://jie-mao.github.io/files/Appendix PBFJ.pdf)<br>
 [讲解视频](https://www.bilibili.com/video/BV1bT411x7WD/?spm_id_from=333.999.0.0&vd_source=0126a284551b7711b711ebd537d74c78)<br>
 <small>注：这是2020年第17届中国金融学年会入选论文，也是本人博士后研究报告第四章的主要内容。</small><br>
+
+【3】Taming the Factor Zoo in China’s Equity Market: A Bayesian Approach（with夏小宝、卓浩天）<br>
+《Pacific-Basin Finance Journal》2025年第5期（第93卷）<br>
+[下载链接](https://www.sciencedirect.com/science/article/abs/pii/S0927538X2500229X)<br>
+<small>注：这是所指导的本科生卓浩天的毕业论文主要内容。</small><br>
 
 【2】Risk Premium Principal Components for the Chinese Stock Market（with邵晶晶、王伟冠）<br>
 《Pacific-Basin Finance Journal》2025年第1期（第89卷）<br>
@@ -27,27 +32,31 @@ author_profile: false
 
 ### 已刊代表性中文论文
 
-【10】股市信息不对称对股价暴跌的影响——基于不确定性的新视角（with刘红忠）<br>
+【11】股市信息不对称对股价暴跌的影响——基于不确定性的新视角（with刘红忠）<br>
 《管理科学学报》2023年第8期（封面文章）<br>
 [下载链接](https://kns.cnki.net/kcms2/article/abstract?v=rdiHbV4QUxa-6IbPLAcc-mmxYiDZ8fkrEVnmVPDnSP1UqEQ9B8uvX5oY4Ju1BY8cecgamAKy6i76Ihr_Qw5R86o1DOUMsiUAQlLSaiDkL-KXKBhEAiWO-oVmNSaU0TUrVPWGXv82GtPNtNAWxlReDg==&uniplatform=NZKPT&language=CHS)<br>
 [网络附录](https://jie-mao.github.io/files/app4.pdf)<br>
 <small>注：这是2019年第16届中国金融学年会入选论文、第2届金融学者论坛入选论文，也是本人博士论文第六章的主要内容。</small><br>
 
-【9】P2P网络借贷平台爆发风险事件问题的研究——基于实物期权理论的视角（with刘红忠）<br>
+【10】P2P网络借贷平台爆发风险事件问题的研究——基于实物期权理论的视角（with刘红忠）<br>
 《金融研究》2018年第11期（封面文章）<br>
 [下载链接](https://kns.cnki.net/kcms2/article/abstract?v=rdiHbV4QUxa-6IbPLAcc-mmxYiDZ8fkrEVnmVPDnSP3XX5HpIW2iBZxuG5FlD1lSi2Ef5cdWGUOe1FyFjpLzPla8Eu6t-g1OHSAdzBZ7D6RSPZ_Q9PsUgbKH0TiqxSXsgQxU5JquhKHbm5jpsgM2Hw==&uniplatform=NZKPT&language=CHS)<br>
 [网络附录](https://jie-mao.github.io/files/app3.pdf)<br>
 <small>注：这是2016年第13届中国金融学年会入选论文，更早是本人博士阶段《公司金融学》的课程论文。</small><br>
 
-【8】生态司法强化能否助推企业漂绿治理？——基于环境资源审判庭设立的准自然实验（with陈慧、颜千卉）<br>
-《制度经济学研究》已录用<br>
-下载链接<br>
-<small>注：这是所指导的硕士生陈慧的毕业论文主要内容。</small><br>
+【9】国家安全对跨境资本流动风险的影响：基于在险资本流动的分析（with郝振兴、刘红忠）<br>
+《世界经济研究》2025年第8期<br>
+[下载链接](https://kns.cnki.net/kcms2/article/abstract?v=fdfqnTR20KuPDoV7aQlNulHmq3jZ2HPYKAt5uEYjOyjrMYmaaQjPnqlof8woj_2gvtChiOsSSuKtdgvqezKAGdwvEqbrLyVIDYu_O_LqOmQft1KvLiFxtJvxcltAaole65m1eFxd2tKH6dM3n_NiUccPuzavQQzIhGRjhUXS18oxBX2DMQ1jnA==&uniplatform=NZKPT&language=CHS)<br>
+<small>注：这是所指导的硕士生郝振兴的毕业论文主要内容。</small><br>
 
 【7】模糊波动下的策略交易和市场质量（with颜镜洲、李仲飞、李星毅）<br>
-《中国管理科学》已录用<br>
-[下载链接](https://kns.cnki.net/kcms2/article/abstract?v=rdiHbV4QUxYv86fSo4PVGxWNsY1QSUM-TaShuDYHy4qsutpin9FV6nWNkx7_nm7USfTAjKTFVPL8C7l3GtIARcK575gm6vnjJGbIbdF9aUTVjT8Ykgf0iYTG5JKXWUNh4q8LRgPEL54=&uniplatform=NZKPT&language=CHS)<br>
+《中国管理科学》2025年第8期（封面文章）<br>
+[下载链接](https://kns.cnki.net/kcms2/article/abstract?v=fdfqnTR20Ku2IwBjT70PDr8zIUMT3Ry921ZOfTXdjnl3SaT0CuhuUNylDtyfNC_ym7gEzDeA7BVgyMOzZn5V_Pz4DWONdkmgQ5xaCpKMtCkX89OynO50g3d_Fea-7Eek9JXKbg5cpCvea4fNC8wllSpBEEFKBGMtURDrD5MKnZ42RZQzQjtyFA==&uniplatform=NZKPT&language=CHS)<br>
 
+【8】生态司法强化能否助推企业漂绿治理？——基于环境资源审判庭设立的准自然实验（with陈慧、颜千卉）<br>
+《制度经济学研究》2025年第2期<br>
+下载链接<br>
+<small>注：这是所指导的硕士生陈慧的毕业论文主要内容。</small><br>
 
 【6】基于双重选择LASSO模型的我国股市定价因子有效性研究（with陈宓舟、许磊、杜树楷）<br>
 《系统工程理论与实践》2024年第9期<br>
@@ -65,7 +74,7 @@ author_profile: false
 
 【3】东道国大选对吸引国际直接投资的影响——基于政治经济周期视角（with夏小宝、田素华）<br>
 《国际贸易问题》2021年第12期<br>
-[下载链接](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=GJMW202112009&uniplatform=NZKPT&v=6wEMP2ASji_pqjVv9PvoNsRjj7WrakBxn-MnX_bbD4ZhVa3FzNpy0GNgtelS1knc)<br>
+[下载链接](https://kns.cnki.net/kcms2/article/abstract?v=fdfqnTR20Ku2BsZJMGsH70oGKYJYFSiWGvuje3ul3PGnb0zqa5CTawHuLJPzZaY01j1h-Xw-4M6s-sIclr4W1N7gOKf5f6E5C98VkzGy6RL3DjWjsIOXHc_baQgPTgJUdJF-2zxp0ERKTpeYukkwkE6n3m6Ja_J22fsd7f8Hfs_CszprA-iNmw==&uniplatform=NZKPT&language=CHS)<br>
 [网络附录](https://jie-mao.github.io/files/app1.pdf)<br>
 <small>注：这是2017年第6届世界经济学会国际投资论坛入选论文，更早是本人博士阶段《国际投资学》的课程论文。</small><br>
 
@@ -89,7 +98,7 @@ author_profile: false
 ### ​​​​​工作论文
 
 【1】Government Intervention, Strategic Trading, and Market Quality（with颜镜洲、颜千卉）<br>
-【2】Taming China's Factor Zoo with a Bayesian Method（with夏小宝、卓浩天）[下载链接](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4965590)<br>
+【2】Chinese Integrating Factors（with夏小宝、王浩哲）<br>
 【3】A latent factor model for the Chinese option market（with裴启源、王伟冠、卓浩天）[下载链接](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5071380)<br>（2025年第一季度SSRN期权领域十大下载论文）<br>
 【4】融资融券交易对我国股市信息不对称风险的影响：理论建模与实证检验（with刘红忠、邓东升）<br>
 【5】经济不确定性、宏观经济系统性风险与货币政策和宏观审慎监管双支柱调控——基于连续时间金融方法（with刘红忠、罗德庆、颜镜洲）<br>
