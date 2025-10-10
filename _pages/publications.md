@@ -55,7 +55,7 @@ author_profile: false
 
 【8】生态司法强化能否助推企业漂绿治理？——基于环境资源审判庭设立的准自然实验（with陈慧、颜千卉）<br>
 《制度经济学研究》2025年第2期<br>
-下载链接<br>
+[下载链接](https://kns.cnki.net/kcms2/article/abstract?v=BP09Z8g3bnJc-wf34dSmgblPV-z79fm5V7PjFxVBZQv-Xin2D7xMrKOsZ3ilpWWX9Ya9ug7sk0FFmNGodZMfCxTiPNENac4HZSLwX484_Dw5bnUXb2_ABzJiEm73wQjj0WZ0xNO42o6o5h6hR8AjwLXlclqgqJRIRXPKenZ6zwmfJSaxkzOoQQ==&uniplatform=NZKPT&language=CHS)<br>
 <small>注：这是所指导的硕士生陈慧的毕业论文主要内容。</small><br>
 
 【6】基于双重选择LASSO模型的我国股市定价因子有效性研究（with陈宓舟、许磊、杜树楷）<br>

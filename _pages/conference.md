@@ -5,7 +5,7 @@ permalink: /conference/
 author_profile: false
 ---
  <br><strong>2025年</strong>
- <br>第二十二届中国金融学年会，南京大学，江苏南京
+ <br>第二十二届中国金融学年会（主持人兼报告人兼点评人），南京大学，江苏南京
  <br>2025年国际风险论坛，萨福克大学，美国波士顿
  <br>第五届中国智能金融产学研高峰论坛，青岛大学，山东青岛
  <br>复旦大学金融研究中心青年论坛，复旦大学，上海  <a href="https://jie-mao.github.io/photo05/">集锦</a>

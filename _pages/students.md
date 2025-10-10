@@ -15,7 +15,7 @@ author_profile: false
 <br><strong>陈&nbsp;&nbsp;&nbsp;&nbsp;婷</strong>（2024级）：
 <br><strong>郝振兴</strong>（2023级）：《国家安全对跨境资本流动风险的影响——基于在险资本流动的分析》[下载链接](https://kns.cnki.net/kcms2/article/abstract?v=fdfqnTR20KuPDoV7aQlNulHmq3jZ2HPYKAt5uEYjOyjrMYmaaQjPnqlof8woj_2gvtChiOsSSuKtdgvqezKAGdwvEqbrLyVIDYu_O_LqOmQft1KvLiFxtJvxcltAaole65m1eFxd2tKH6dM3n_NiUccPuzavQQzIhGRjhUXS18oxBX2DMQ1jnA==&uniplatform=NZKPT&language=CHS)
 <br><strong>黄舟佳</strong>（2023级）：《“雪中送炭”还是“抱薪救火”？——纾困基金驰援对民营企业违约风险的影响》[下载链接]
-<br><strong>陈&nbsp;&nbsp;&nbsp;&nbsp;慧</strong>（2023级）：《生态司法强化能否助推企业漂绿治理？——基于环境资源审判庭设立的准自然实验》[下载链接]
+<br><strong>陈&nbsp;&nbsp;&nbsp;&nbsp;慧</strong>（2023级）：《生态司法强化能否助推企业漂绿治理？——基于环境资源审判庭设立的准自然实验》[下载链接](https://kns.cnki.net/kcms2/article/abstract?v=BP09Z8g3bnJc-wf34dSmgblPV-z79fm5V7PjFxVBZQv-Xin2D7xMrKOsZ3ilpWWX9Ya9ug7sk0FFmNGodZMfCxTiPNENac4HZSLwX484_Dw5bnUXb2_ABzJiEm73wQjj0WZ0xNO42o6o5h6hR8AjwLXlclqgqJRIRXPKenZ6zwmfJSaxkzOoQQ==&uniplatform=NZKPT&language=CHS)
 <br><strong>万&nbsp;&nbsp;&nbsp;&nbsp;程</strong>（2022级）：《地方政府债务对经济下行风险的影响——基于在险增长的实证分析》[下载链接](https://kns.cnki.net/kcms2/article/abstract?v=ttOPOQ75YvK9I7eJD-rHHIJhgh4aA8ut3SMIbDCICfhbwqF6OvBvDqZerQafWiPwkvZe6YpPmyGwRHzUB_9G6QSWPnBiRR-LrGonr2nKCyyh8LKePna1fNbEcqoD9t7MepxC5pUM8kk=&uniplatform=NZKPT&language=CHS)
 <br><strong>吴含秋</strong>（2022级）：《注册制改革对IPO公司“业绩变脸”的影响：一个准自然实验》[下载链接](https://kns.cnki.net/kcms2/article/abstract?v=8WLnD7pOpNFENS00fqlXHX_WHFNn7vo5CX205T1gdzZLWQWO_keaXr6CawtwnqlzAy1545qGu5bmx0uBNmM43b0DtxROTYsbGIitODcvLUN3s4rXDSFYo8cyODej8n_nuAPBb-uPALM=&uniplatform=NZKPT&language=CHS)
 <br><strong>侯智辉（Gifai Hau）</strong>（2022级）：《Timing China’s Factor Zoo with Double-Selection LASSO Model 》[下载链接]
