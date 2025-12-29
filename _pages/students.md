@@ -21,12 +21,16 @@ author_profile: false
 <br><strong>侯智辉（Gifai Hau）</strong>（2022级）：《Timing China’s Factor Zoo with Double-Selection LASSO Model 》[下载链接]
 
 <strong>本科生:</strong>
+<br><strong>严翊绮</strong>（2025级）：
+<br><strong>董雨夕</strong>（2025级）：
 <br><strong>邓博文</strong>（2024级）：
 <br><strong>王艾珂</strong>（2024级）：
 <br><strong>杨昊锟</strong>（2023级）：
 <br><strong>汪隆俊</strong>（2023级）：
 <br><strong>向&nbsp;&nbsp;&nbsp;&nbsp;磊</strong>（2023级）：
 <br><strong>黄静怡</strong>（2023级）：
+<br><strong>王雅暄</strong>（2023级）：
+<br><strong>叶渝庚</strong>（2023级）：
 <br><strong>王浩哲</strong>（2022级）：《基于集成因子的中国股市定价研究》
 <br><strong>羡舒涵</strong>（2022级）：
 <br><strong>王璨璨</strong>（2022级）：

@@ -7,12 +7,14 @@ author_profile: false
 
 ### 已刊代表性英文论文
 
-【4】A Continuous Time Macro-Finance Model with Knightian Uncertainty（with申冠雄、颜镜洲）<br>
+【5】A Continuous Time Macro-Finance Model with Knightian Uncertainty（with申冠雄、颜镜洲）<br>
 《Pacific-Basin Finance Journal》2023年第1期（第77卷）<br>
 [下载链接](https://www.sciencedirect.com/science/article/pii/S0927538X22002244)<br>
 [网络附录](https://jie-mao.github.io/files/Appendix PBFJ.pdf)<br>
 [讲解视频](https://www.bilibili.com/video/BV1bT411x7WD/?spm_id_from=333.999.0.0&vd_source=0126a284551b7711b711ebd537d74c78)<br>
 <small>注：这是2020年第17届中国金融学年会入选论文，也是本人博士后研究报告第四章的主要内容。</small><br>
+
+【4】AI Narrative Asset Pricing in China（with汪隆俊、颜千卉、朱小能）<br>
 
 【3】Taming the Factor Zoo in China’s Equity Market: A Bayesian Approach（with夏小宝、卓浩天）<br>
 《Pacific-Basin Finance Journal》2025年第5期（第93卷）<br>
