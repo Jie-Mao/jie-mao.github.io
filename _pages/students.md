@@ -10,9 +10,8 @@ author_profile: false
 
 <strong>金融硕士生:</strong>
 <br><strong>李志伟</strong>（2025级）：
-<br><strong>夏天亮</strong>（2024级）：
-<br><strong>曹&nbsp;&nbsp;&nbsp;&nbsp;阳</strong>（2024级）：
-<br><strong>陈&nbsp;&nbsp;&nbsp;&nbsp;婷</strong>（2024级）：
+<br><strong>夏天亮</strong>（2024级）：《弱因子情形下中国股市定价研究——基于拓展的三步估计法》[下载链接]
+<br><strong>陈&nbsp;&nbsp;&nbsp;&nbsp;婷</strong>（2024级）：《证监会随机抽查对非金融企业影子银行化的影响》[下载链接]
 <br><strong>郝振兴</strong>（2023级）：《国家安全对跨境资本流动风险的影响——基于在险资本流动的分析》[下载链接](https://kns.cnki.net/kcms2/article/abstract?v=fdfqnTR20KuPDoV7aQlNulHmq3jZ2HPYKAt5uEYjOyjrMYmaaQjPnqlof8woj_2gvtChiOsSSuKtdgvqezKAGdwvEqbrLyVIDYu_O_LqOmQft1KvLiFxtJvxcltAaole65m1eFxd2tKH6dM3n_NiUccPuzavQQzIhGRjhUXS18oxBX2DMQ1jnA==&uniplatform=NZKPT&language=CHS)
 <br><strong>黄舟佳</strong>（2023级）：《“雪中送炭”还是“抱薪救火”？——纾困基金驰援对民营企业违约风险的影响》[下载链接]
 <br><strong>陈&nbsp;&nbsp;&nbsp;&nbsp;慧</strong>（2023级）：《生态司法强化能否助推企业漂绿治理？——基于环境资源审判庭设立的准自然实验》[下载链接](https://kns.cnki.net/kcms2/article/abstract?v=BP09Z8g3bnJc-wf34dSmgblPV-z79fm5V7PjFxVBZQv-Xin2D7xMrKOsZ3ilpWWX9Ya9ug7sk0FFmNGodZMfCxTiPNENac4HZSLwX484_Dw5bnUXb2_ABzJiEm73wQjj0WZ0xNO42o6o5h6hR8AjwLXlclqgqJRIRXPKenZ6zwmfJSaxkzOoQQ==&uniplatform=NZKPT&language=CHS)
@@ -31,11 +30,11 @@ author_profile: false
 <br><strong>黄静怡</strong>（2023级）：
 <br><strong>王雅暄</strong>（2023级）：
 <br><strong>叶渝庚</strong>（2023级）：
-<br><strong>王浩哲</strong>（2022级）：《基于集成因子的中国股市定价研究》
-<br><strong>羡舒涵</strong>（2022级）：
-<br><strong>王璨璨</strong>（2022级）：
-<br><strong>王&nbsp;&nbsp;&nbsp;&nbsp;卓</strong>（2022级）：
-<br><strong>杨珈源</strong>（2022级）：
+<br><strong>王浩哲</strong>（2022级）：《模型不确定下的中国股市定价研究——基于贝叶斯模型平均方法》
+<br><strong>羡舒涵</strong>（2022级）：《基于多重检验新框架的中国股市因子定价有效性研究》
+<br><strong>王璨璨</strong>（2022级）：《基于卷积神经网络方法的中国股市定价研究》
+<br><strong>王&nbsp;&nbsp;&nbsp;&nbsp;卓</strong>（2022级）：《基于IPCA方法的中国大宗商品市场定价研究》
+<br><strong>杨珈源</strong>（2022级）：《跳跃尾部风险的收益可预测性研究：基于中国期权市场的证据》
 <br><strong>卓浩天</strong>（2021级）：《基于贝叶斯模型平均方法的中国股市定价研究》（成绩A，优秀毕业论文）[下载链接](https://www.sciencedirect.com/science/article/abs/pii/S0927538X2500229X)
 <br><strong>黄子杰</strong>（2021级）：《中国期权市场的条件因子风险研究》（成绩A-）[下载链接]
 <br><strong>谢依晨</strong>（2021级）：《基于深度学习方法的中国股市定价研究》（成绩A-）
