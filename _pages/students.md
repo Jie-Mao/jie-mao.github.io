@@ -30,7 +30,7 @@ author_profile: false
 <br><strong>黄静怡</strong>（2023级）：
 <br><strong>王雅暄</strong>（2023级）：
 <br><strong>叶渝庚</strong>（2023级）：
-<br><strong>王浩哲</strong>（2022级）：《模型不确定下的中国股市定价研究——基于贝叶斯模型平均方法》
+<br><strong>王浩哲</strong>（2022级）：《模型不确定下的中国股市定价研究——基于贝叶斯模型平均方法》[下载链接]
 <br><strong>羡舒涵</strong>（2022级）：《基于多重检验新框架的中国股市因子定价有效性研究》
 <br><strong>王璨璨</strong>（2022级）：《基于卷积神经网络方法的中国股市定价研究》
 <br><strong>王&nbsp;&nbsp;&nbsp;&nbsp;卓</strong>（2022级）：《基于IPCA方法的中国大宗商品市场定价研究》

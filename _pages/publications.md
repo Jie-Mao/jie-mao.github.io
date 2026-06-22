@@ -47,7 +47,7 @@ author_profile: false
 <small>注：这是2016年第13届中国金融学年会入选论文，更早是本人博士阶段《公司金融学》的课程论文。</small><br>
 
 【9】国家安全对跨境资本流动风险的影响：基于在险资本流动的分析（with郝振兴、刘红忠）<br>
-《世界经济研究》2025年第8期<br>
+《世界经济研究》2025年第8期（《高等学校文科学术文摘》2025年第11期长文转载）<br>
 [下载链接](https://kns.cnki.net/kcms2/article/abstract?v=fdfqnTR20KuPDoV7aQlNulHmq3jZ2HPYKAt5uEYjOyjrMYmaaQjPnqlof8woj_2gvtChiOsSSuKtdgvqezKAGdwvEqbrLyVIDYu_O_LqOmQft1KvLiFxtJvxcltAaole65m1eFxd2tKH6dM3n_NiUccPuzavQQzIhGRjhUXS18oxBX2DMQ1jnA==&uniplatform=NZKPT&language=CHS)<br>
 <small>注：这是所指导的硕士生郝振兴的毕业论文主要内容。</small><br>
 
