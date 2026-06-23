@@ -7,11 +7,7 @@
 <div itemscope itemtype="http://schema.org/Person">
 
   <div class="author__avatar">
-    {% if author.avatar contains "://" %}
-    	<img src="{{ author.avatar }}" alt="{{ author.name }}">
-    {% else %}
-    	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
-    {% endif %}
+    	<img src="{{ author.avatar | prepend: "/images/bio.png" }}" class="author__avatar" alt="欢迎来到毛杰的个人主页！">
   </div>
 
   <div class="author__content">
@@ -25,9 +21,9 @@
         <li><a href="mailto:jiemao@fudan.edu.cn"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
         <li><a href="https://www.researchgate.net/profile/Jie_Mao2"><i class="fab fa-fw fa-researchgate" aria-hidden="true"></i> ResearchGate</a></li>
         <li><a href="https://github.com/jie-mao"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Github</a></li>
-        <li><a href="{http://orcid.org/0000-0002-0892-1184}"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a></li>
-        <li><a href="https://ssrn.com/author=5955245"><i class=""ai ai-ssrn ai-fw">"></i> SSRN</a></li>
-        <li><a href="https://au.cnki.net/author/personalInfo/000058411840"><i class="ai ai-cnki ai-fw"></i> CNKI</a></li>
+        <li><a href="http://orcid.org/0000-0002-0892-1184"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a></li>
+        <li><a href="https://ssrn.com/author=5955245"><i class="ai ai-ssrn ai-fw"></i> SSRN</a></li>
+        <li><a href="https://au.cnki.net/author/personalInfo/000058411840"><i class="fas fa-fw fa-external-link-alt"></i> CNKI</a></li>
     </ul>
   </div>
 </div>
