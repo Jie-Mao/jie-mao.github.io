@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-欢迎来到本站的网站地图。您可以在这里找到本站所有的核心页面和内容分类。<br>
+您可以在这里找到本站所有的核心页面和内容分类。<br>
 给搜索引擎爬虫准备的 XML 版本请点击 [这里]({{ base_path }}/sitemap.xml)。
 
 
