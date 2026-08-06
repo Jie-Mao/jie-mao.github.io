@@ -9,7 +9,7 @@ author_profile: false
 <br><strong>任棚伟</strong>（2024级）：
 
 <strong>金融硕士生:</strong>
-<br><strong>李志伟</strong>（2025级）：
+<br><strong>李志伟</strong>（2025级）：《交互失衡情形下融合关系感知与反馈增强的银行金融产品多步推荐方法》[下载链接]
 <br><strong>夏天亮</strong>（2024级）：《弱因子情形下中国股市定价研究——基于拓展的三步估计法》[下载链接]
 <br><strong>陈&nbsp;&nbsp;&nbsp;&nbsp;婷</strong>（2024级）：《证监会随机抽查对非金融企业影子银行化的影响》[下载链接]
 <br><strong>郝振兴</strong>（2023级）：《国家安全对跨境资本流动风险的影响——基于在险资本流动的分析》[下载链接](https://kns.cnki.net/kcms2/article/abstract?v=fdfqnTR20KuPDoV7aQlNulHmq3jZ2HPYKAt5uEYjOyjrMYmaaQjPnqlof8woj_2gvtChiOsSSuKtdgvqezKAGdwvEqbrLyVIDYu_O_LqOmQft1KvLiFxtJvxcltAaole65m1eFxd2tKH6dM3n_NiUccPuzavQQzIhGRjhUXS18oxBX2DMQ1jnA==&uniplatform=NZKPT&language=CHS)
