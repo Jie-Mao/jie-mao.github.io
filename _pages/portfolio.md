@@ -24,7 +24,7 @@ author_profile: false
     ​
     <br><strong>其他荣誉</strong>
     <br>2024年第七届上海市金融硕士优秀案例入库
-    <br>2026年现代风险学会最佳贡献奖   
+    <br>2026年现代风险学会最佳贡献奖 <a href="https://globalmrs.org/mrs2026/forum_files/docs/MRS2026%20Award%20Winners.pdf">报道</a>  
     <br>2024年上海大学人文社科类高水平论文著作奖
     <br>2024年上海大学事业单位工作人员嘉奖
     <br>2022年上海大学事业单位工作人员嘉奖
